@@ -1,3 +1,19 @@
+## walrus
+
+/ˈwɔːlrəs/
+
+> A large, marine mammal with long tusks, thick skin, and whiskers, found in Arctic regions.
+
+**海象**
+
+- The walrus basked on the icy shore, its tusks gleaming in the sun.
+- 海象在冰冷的海岸上晒太阳，它的獠牙在阳光下闪闪发光。
+
+*Walruses are often confused with seals and sea lions. A key distinguishing feature is their prominent tusks, which both males and females possess.*
+
+
+---
+
 ## disclaimer
 
 */dɪsˈkleɪmər/*
