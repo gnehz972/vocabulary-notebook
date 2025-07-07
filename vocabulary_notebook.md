@@ -1,3 +1,19 @@
+## blockquote
+
+*[ˈblɒkˌkwoʊt]*
+
+> A long quotation set off from the main text and typically indented.
+
+**长引用块**
+
+- The essay began with a striking blockquote from Maya Angelou.
+- 这篇文章以玛雅·安杰卢的一段引人注目的长引用块开始。
+
+*Blockquotes are often used to visually distinguish lengthy quotes from the surrounding text, improving readability.*
+
+
+---
+
 ## wonky
 
 *[ˈwɒŋki]*
