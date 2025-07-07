@@ -1,3 +1,19 @@
+## disclaimer
+
+*/dɪsˈkleɪmər/*
+
+> A statement that denies responsibility for something or limits liability.
+
+**免责声明**
+
+- The website includes a disclaimer stating that the information provided is for educational purposes only and should not be considered professional advice.
+- 该网站包含免责声明，声明所提供的信息仅供教育目的，不应被视为专业建议。
+
+*A disclaimer is often used to protect the author, website, or organization from legal repercussions if someone relies on the information provided and experiences negative consequences.*
+
+
+---
+
 ## blockquote
 
 *[ˈblɒkˌkwoʊt]*
