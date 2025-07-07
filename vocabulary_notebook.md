@@ -1,3 +1,19 @@
+## wonky
+
+*[ˈwɒŋki]*
+
+> Deviating from the straight or even; shaky or unsteady. Also, functioning incorrectly or not working properly.
+
+**摇摇晃晃的；有缺陷的**
+
+- The table was wonky, so everything kept sliding off.
+- 桌子摇摇晃晃的，所以东西不停地滑下来。
+
+*[Usage tip: "Wonky" is often used informally to describe something that is slightly broken or not quite right, but not completely unusable.]*
+
+
+---
+
 ## ideation
 
 */ˌaɪdiˈeɪʃən/*
