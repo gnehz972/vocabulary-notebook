@@ -1,3 +1,19 @@
+## empathy
+
+*/ˈempəθi/*
+
+> The ability to understand and share the feelings of another.
+
+**同理心**
+
+- Seeing her distress, I felt a surge of empathy.
+- 看到她的痛苦，我涌上了一阵同理心。
+
+*Empathy requires more than just recognizing another person's emotions; it involves genuinely trying to understand their perspective and situation.*
+
+
+---
+
 ## competency
 
 /ˈkɒmpɪtənsi/
