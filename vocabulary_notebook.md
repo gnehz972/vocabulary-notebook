@@ -11,6 +11,20 @@
 
 *Accountability implies that someone can be called to account for their actions and can be held responsible for them.*
 
+---
+
+## centricity
+
+*/sɛnˈtrɪsɪti/*
+
+> The state of being central or focused; importance given to a particular thing or person.
+
+**中心性; 中心地位**
+
+- Customer centricity is crucial for any successful business.
+- 以客户为中心对任何成功的企业都至关重要。
+
+*Often used in business and marketing to emphasize the importance of a particular focus.*
 
 ---
 
