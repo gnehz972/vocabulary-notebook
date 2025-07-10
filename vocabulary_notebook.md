@@ -1,3 +1,19 @@
+## competency
+
+/ˈkɒmpɪtənsi/
+
+> The ability to do something successfully or efficiently.
+
+**能力；胜任**
+
+- The company is looking for candidates with a high level of competency in data analysis.
+- 公司正在寻找具有较高数据分析能力水平的候选人。
+
+*Competency is often used in a professional context to describe the skills and abilities required for a specific job or role.*
+
+
+---
+
 ## cultivation
 
 */ˌkʌltɪˈveɪʃən/*
