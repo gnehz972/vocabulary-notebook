@@ -1,3 +1,19 @@
+## acumen
+
+/əˈkjuːmən/
+
+> Keenness and depth of perception, discernment, or discrimination especially in practical matters.
+
+**敏锐; 精明**
+
+- Her political acumen allowed her to predict the outcome of the election.
+- 她的政治敏锐使她能够预测选举的结果。
+
+*Acumen is often used in the context of business, finance, or politics, implying a sharp understanding and ability to make sound judgments.*
+
+
+---
+
 ## empathy
 
 */ˈempəθi/*
