@@ -1,3 +1,19 @@
+## envisioning
+
+*/ɪnˈvɪʒənɪŋ/*
+
+> Forming a mental image of something; imagining something that might happen in the future.
+
+**设想, 想象**
+
+- The company is envisioning a future where renewable energy powers all its operations.
+- 公司正在设想一个未来，可再生能源为其所有运营提供动力。
+
+*Use "envisioning" when the mental image is related to a future possibility, plan, or aspiration. It suggests active and purposeful imagining.*
+
+
+---
+
 ## compliance
 
 /kəmˈplaɪəns/
