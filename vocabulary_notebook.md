@@ -11,6 +11,20 @@
 
 *Often used in business and marketing to emphasize the importance of a particular focus.*
 
+---
+
+## iconography
+
+*/ˌaɪkəˈnɒɡrəfi/*
+
+> The visual images and symbols used in a work of art or the study or interpretation of these images.
+
+**图像学**
+
+- The iconography of the Renaissance paintings is full of biblical allusions.
+- 这些文艺复兴时期绘画的图像学充满了圣经典故。
+
+*Iconography can refer to both the images themselves and the study of those images.*
 
 ---
 
@@ -26,7 +40,6 @@
 - 公司正在设想一个未来，可再生能源为其所有运营提供动力。
 
 *Use "envisioning" when the mental image is related to a future possibility, plan, or aspiration. It suggests active and purposeful imagining.*
-
 
 ---
 
