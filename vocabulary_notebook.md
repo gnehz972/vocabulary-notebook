@@ -11,7 +11,6 @@
 
 *Compliance often involves documentation and auditing to prove that rules are being followed.*
 
-
 ---
 
 ## comparative
