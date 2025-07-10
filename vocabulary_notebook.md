@@ -1,3 +1,19 @@
+## compliance
+
+/kəmˈplaɪəns/
+
+> The act or state of obeying or conforming to rules, laws, requests, or standards.
+
+**服从; 顺从; 遵守**
+
+- The company needs to ensure compliance with all environmental regulations.
+- 公司需要确保遵守所有环境法规。
+
+*Compliance often involves documentation and auditing to prove that rules are being followed.*
+
+
+---
+
 ## comparative
 
 */kəmˈpærətɪv/*
