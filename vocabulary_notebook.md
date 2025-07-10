@@ -1,3 +1,19 @@
+## accountability
+
+*/əˌkaʊntəˈbɪləti/*
+
+> The state of being answerable and responsible for one's actions and decisions.
+
+**问责制; 责任**
+
+- The company president held his team accountable for the project's failure.
+- 公司总裁要求他的团队为项目的失败承担责任。
+
+*Accountability implies that someone can be called to account for their actions and can be held responsible for them.*
+
+
+---
+
 ## iconography
 
 */ˌaɪkəˈnɒɡrəfi/*
