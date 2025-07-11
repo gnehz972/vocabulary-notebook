@@ -1,3 +1,20 @@
+## big
+
+/*bɪɡ/*
+
+> Of considerable size, extent, or intensity.
+
+**大的**
+
+- That's a big house!
+- 那是一栋大房子!
+
+*Use "large" as a more formal synonym for "big."*
+
+
+
+---
+
 ## nice
 
 */naɪs/*
