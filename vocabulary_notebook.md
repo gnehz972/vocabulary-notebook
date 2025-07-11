@@ -1,3 +1,20 @@
+## show
+
+/*ʃoʊ*/
+
+> To allow or cause something to be seen; to demonstrate or present.
+
+**展示，表明**
+
+- Please show me your identification.
+- 请出示你的身份证明。
+
+*It's important to consider context when determining the correct Chinese translation, as "show" can have many nuances.*
+
+
+
+---
+
 ## try
 
 /*traɪ*/
