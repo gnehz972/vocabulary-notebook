@@ -4,6 +4,23 @@
 
 > Pleasant; agreeable; satisfactory.
 
+**好的，令人愉快的**
+
+- She has a nice smile.
+- 她有个迷人的笑容。
+
+*“Nice” is a very general word and often considered bland. Consider using more specific adjectives to describe what you like.*
+
+
+
+---
+
+## nice
+
+*/naɪs/*
+
+> Pleasant; agreeable; satisfactory.
+
 **好的; 令人愉快的; 友善的**
 
 - She's a very nice person.
