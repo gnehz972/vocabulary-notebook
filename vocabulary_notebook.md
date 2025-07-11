@@ -1,3 +1,19 @@
+## nine
+
+*/naɪn/*
+
+> The cardinal number equal to 8 + 1; a digit or figure representing this number.
+
+**九**
+
+- There are nine planets in the solar system, counting Pluto.
+- 算上冥王星，太阳系里有九颗行星。
+
+*Nine is a single-digit number, unlike ten which is a two-digit number.*
+
+
+---
+
 ## nice
 
 */naɪs/*
