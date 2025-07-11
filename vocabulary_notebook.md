@@ -1,3 +1,19 @@
+## nine
+
+*/naɪn/*
+
+> The number equivalent to the product of three and three; one more than eight.
+
+**九**
+
+- She is nine years old.
+- 她九岁了。
+
+*Often associated with completion or longevity in some cultures.*
+
+
+---
+
 ## nice
 
 */naɪs/*
