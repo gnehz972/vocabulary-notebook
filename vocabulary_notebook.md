@@ -4,6 +4,23 @@
 
 > Pleasant; agreeable; satisfactory.
 
+**好的；令人愉快的**
+
+- It was nice to meet you.
+- 很高兴认识你。
+
+*While "nice" is generally positive, overuse can make it sound bland. Consider using more specific adjectives to convey your meaning.*
+
+
+
+---
+
+## nice
+
+*/naɪs/*
+
+> Pleasant; agreeable; satisfactory.
+
 **好的，令人愉快的**
 
 - She has a nice smile.
