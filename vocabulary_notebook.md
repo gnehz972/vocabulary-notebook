@@ -1,3 +1,20 @@
+## beautiful
+
+*/ˈbjuːtɪfl/*
+
+> Pleasing the senses or mind aesthetically.
+
+**美丽的；漂亮的**
+
+- The sunset over the ocean was absolutely beautiful.
+- 海面上的日落真是太美丽了。
+
+*Remember that "beautiful" is often used to describe things that evoke a strong positive emotional response.*
+
+
+
+---
+
 ## show
 
 /*ʃoʊ*/
