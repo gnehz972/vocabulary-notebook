@@ -1,3 +1,19 @@
+## five
+
+*/faɪv/*
+
+> The number equivalent to the sum of one and four; a numeral representing this number.
+
+**五**
+
+- I have five fingers on each hand.
+- 我每只手都有五个手指。
+
+*The word "five" can also be part of compound words like "fifty," "fivefold," and "fiver."*
+
+
+---
+
 ## four
 
 */fɔːr/*
