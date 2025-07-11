@@ -1,3 +1,19 @@
+## same
+
+*/seɪm/*
+
+> Identical or alike in substance, form, qualities, or amount.
+
+**相同的**
+
+- They wore the same dress to the party.
+- 她们穿着相同的裙子参加了聚会。
+
+*“Same” can be used as an adjective, pronoun, or adverb, depending on the context.*
+
+
+---
+
 ## accountability
 
 */əˌkaʊntəˈbɪləti/*
