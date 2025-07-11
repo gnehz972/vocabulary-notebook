@@ -36,6 +36,23 @@
 
 */naɪs/*
 
+> Pleasant or agreeable; satisfactory or acceptable.
+
+**好的; 令人愉快的; 和善的**
+
+- She has a really nice smile.
+- 她有个非常好看的笑容。
+
+*While "nice" is generally positive, overusing it can make you sound vague. Try to be more specific about what you find pleasant.*
+
+
+
+---
+
+## nice
+
+*/naɪs/*
+
 > Pleasant; agreeable; satisfactory.
 
 **好的；令人愉快的；友善的**
