@@ -14,6 +14,26 @@
 
 ---
 
+
+
+---
+
+## same
+
+*/seɪm/*
+
+> Identical or alike in substance, form, qualities, or amount.
+
+**相同的**
+
+- They wore the same dress to the party.
+- 她们穿着相同的裙子参加了聚会。
+
+*“Same” can be used as an adjective, pronoun, or adverb, depending on the context.*
+
+
+---
+
 ## accountability
 
 */əˌkaʊntəˈbɪləti/*
@@ -266,3 +286,22 @@
 - 这辆车比同类车型更便宜。
 
 *The comparative form of an adjective or adverb is used to show that something has more of a quality than something else.*
+
+---
+
+## network
+
+*/ˈnetwɜːrk/*
+
+> A group or system of interconnected people or things.
+
+**网络/关系网**
+
+- The company has a vast network of suppliers.
+- 这家公司拥有庞大的供应商网络。
+
+*Note: "Network" can refer to both physical and abstract connections.*
+
+
+---
+
