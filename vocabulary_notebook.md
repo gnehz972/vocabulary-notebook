@@ -1,3 +1,19 @@
+## six
+
+*/sɪks/*
+
+> The number equivalent to the sum of five and one; a cardinal number that is one more than five.
+
+**六**
+
+- I have six apples in my basket.
+- 我的篮子里有六个苹果。
+
+*Six is often used in idioms, such as "six of one, half a dozen of the other," which means there's no real difference between two options.*
+
+
+---
+
 ## five
 
 */faɪv/*
