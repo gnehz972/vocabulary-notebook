@@ -1,3 +1,20 @@
+## try
+
+/*traɪ*/
+
+> To make an attempt or effort to do something.
+
+**尝试**
+
+- I will try my best to finish the project on time.
+- 我会尽力按时完成这个项目。
+
+*Often used with infinitives (e.g., "try to do").*
+
+
+
+---
+
 ## big
 
 */bɪɡ/*
