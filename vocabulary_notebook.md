@@ -19,6 +19,23 @@
 
 */naɪs/*
 
+> Pleasant, agreeable, or satisfactory.
+
+**好的**
+
+- She has a very nice smile.
+- 她有一个非常好的笑容。
+
+*“Nice” is often considered a somewhat weak compliment; using stronger synonyms like “wonderful,” “lovely,” or “fantastic” can sometimes be more impactful.*
+
+
+
+---
+
+## nice
+
+*/naɪs/*
+
 > Pleasant; agreeable; satisfactory.
 
 **好的，令人愉悦的**
