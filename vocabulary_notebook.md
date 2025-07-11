@@ -1,15 +1,15 @@
-## big
+## nice
 
-*/bɪɡ/*
+*/naɪs/*
 
-> Of considerable size, extent, or intensity.
+> Pleasant; agreeable; satisfactory.
 
-**大的**
+**好的；令人愉快的；友善的**
 
-- The elephant is a very big animal.
-- 大象是非常大的动物。
+- She has a very nice smile.
+- 她有一个非常迷人的微笑。
 
-*Avoid using "big" when more specific size descriptors like "large," "huge," or "massive" are more appropriate.*
+*“Nice” can sometimes be considered a weak compliment. Use more specific adjectives like "kind," "generous," or "helpful" to show genuine appreciation.*
 
 
 
