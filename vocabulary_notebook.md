@@ -1,3 +1,19 @@
+## seven
+
+*/ˈsɛvən/*
+
+> The number equivalent to the sum of six and one; a cardinal number.
+
+**七**
+
+- There are seven days in a week.
+- 一个星期有七天。
+
+*The word "seven" can also be part of larger numbers like seventeen (17) and seventy (70).*
+
+
+---
+
 ## six
 
 */sɪks/*
