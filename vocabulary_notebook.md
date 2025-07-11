@@ -1,3 +1,19 @@
+## three
+
+/* /θriː/ */
+
+> The number equivalent to the sum of one and two; 3.
+
+**三**
+
+- There are three apples on the table.
+- 桌子上有三个苹果。
+
+*Use "three" to refer to a quantity or a position in a sequence (e.g., third). *
+
+
+---
+
 ## one
 
 */wʌn/*
