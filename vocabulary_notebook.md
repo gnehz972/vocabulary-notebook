@@ -1,3 +1,19 @@
+## one
+
+*/wʌn/*
+
+> The number 1; a single thing.
+
+**一**
+
+- One apple is enough for me.
+- 一个苹果对我来说就足够了。
+
+* "One" can be used as a pronoun to avoid repeating a noun, especially when talking about unidentified or general things (e.g., "I don't like that car; I prefer the red one").
+
+
+---
+
 ## accountability
 
 */əˌkaʊntəˈbɪləti/*
