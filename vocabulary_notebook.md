@@ -1,3 +1,19 @@
+## network
+
+*/ˈnetwɜːrk/*
+
+> A group or system of interconnected people or things.
+
+**网络/关系网**
+
+- The company has a vast network of suppliers.
+- 这家公司拥有庞大的供应商网络。
+
+*Note: "Network" can refer to both physical and abstract connections.*
+
+
+---
+
 ## centricity
 
 */sɛnˈtrɪsɪti/*
