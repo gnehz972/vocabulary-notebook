@@ -1,3 +1,20 @@
+## big
+
+*/bɪɡ/*
+
+> Of considerable size, extent, or intensity.
+
+**大的**
+
+- He has a big house.
+- 他有一栋大房子。
+
+*Use "big" to describe physical size, importance, or degree.*
+
+
+
+---
+
 ## eight
 
 */eɪt/*
