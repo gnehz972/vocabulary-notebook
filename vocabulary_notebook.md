@@ -1,3 +1,19 @@
+## two
+
+/*tuː/*
+
+> The number equivalent to the sum of one and one; 2.
+
+**二**
+
+- I have two cats.
+- 我有两只猫。
+
+*Use "a couple of" as an informal synonym for "two," but be aware that it can sometimes imply a small but indefinite number, rather than exactly two.*
+
+
+---
+
 ## same
 
 */seɪm/*
