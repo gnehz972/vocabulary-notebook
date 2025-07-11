@@ -1,3 +1,20 @@
+## big
+
+*/bɪɡ/*
+
+> Large in size, extent, or amount.
+
+**大的**
+
+- That's a big house!
+- 那是一个大的房子！
+
+*Note: "Big" can also describe importance or significance, not just physical size.*
+
+
+
+---
+
 ## beautiful
 
 /* /ˈbjuːtɪfl/ */
