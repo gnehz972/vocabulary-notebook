@@ -1,3 +1,19 @@
+## eight
+
+*/eɪt/*
+
+> The number equivalent to the sum of seven and one; 8.
+
+**八**
+
+- She ate eight slices of pizza.
+- 她吃了八片披萨。
+
+*Remember, "ate" (past tense of eat) is pronounced the same as "eight" (the number).*
+
+
+---
+
 ## seven
 
 */ˈsɛvən/*
