@@ -1,16 +1,15 @@
-## network
+## accountability
 
-*/ˈnetwɜːrk/*
+*/əˌkaʊntəˈbɪləti/*
 
-> A group or system of interconnected people or things.
+> The state of being answerable and responsible for one's actions and decisions.
 
-**网络/关系网**
+**问责制; 责任**
 
-- The company has a vast network of suppliers.
-- 这家公司拥有庞大的供应商网络。
+- The company president held his team accountable for the project's failure.
+- 公司总裁要求他的团队为项目的失败承担责任。
 
-*Note: "Network" can refer to both physical and abstract connections.*
-
+*Accountability implies that someone can be called to account for their actions and can be held responsible for them.*
 
 ---
 
@@ -41,51 +40,6 @@
 - 这些文艺复兴时期绘画的图像学充满了圣经典故。
 
 *Iconography can refer to both the images themselves and the study of those images.*
-
----
-
-## envisioning
-
-*/ɪnˈvɪʒənɪŋ/*
-
-> Forming a mental image of something; imagining something that might happen in the future.
-
-**设想, 想象**
-
-- The company is envisioning a future where renewable energy powers all its operations.
-- 公司正在设想一个未来，可再生能源为其所有运营提供动力。
-
-*Use "envisioning" when the mental image is related to a future possibility, plan, or aspiration. It suggests active and purposeful imagining.*
-
----
-
-## compliance
-
-/kəmˈplaɪəns/
-
-> The act or state of obeying or conforming to rules, laws, requests, or standards.
-
-**服从; 顺从; 遵守**
-
-- The company needs to ensure compliance with all environmental regulations.
-- 公司需要确保遵守所有环境法规。
-
-*Compliance often involves documentation and auditing to prove that rules are being followed.*
-
----
-
-## comparative
-
-*/kəmˈpærətɪv/*
-
-> Involving comparison; relative.
-
-**比较的**
-
-- This car is cheaper than the comparative model.
-- 这辆车比同类车型更便宜。
-
-*The comparative form of an adjective or adverb is used to show that something has more of a quality than something else.*
 
 ---
 
@@ -251,3 +205,67 @@
 - "书籍"一词是复数名词。
 
 *Tip: Most English nouns become plural by adding "-s" or "-es" to the end, but there are irregular plural forms (e.g., child/children, mouse/mice).*
+
+---
+
+## envisioning
+
+*/ɪnˈvɪʒənɪŋ/*
+
+> Forming a mental image of something; imagining something that might happen in the future.
+
+**设想, 想象**
+
+- The company is envisioning a future where renewable energy powers all its operations.
+- 公司正在设想一个未来，可再生能源为其所有运营提供动力。
+
+*Use "envisioning" when the mental image is related to a future possibility, plan, or aspiration. It suggests active and purposeful imagining.*
+
+---
+
+## compliance
+
+/kəmˈplaɪəns/
+
+> The act or state of obeying or conforming to rules, laws, requests, or standards.
+
+**服从; 顺从; 遵守**
+
+- The company needs to ensure compliance with all environmental regulations.
+- 公司需要确保遵守所有环境法规。
+
+*Compliance often involves documentation and auditing to prove that rules are being followed.*
+
+---
+
+## comparative
+
+*/kəmˈpærətɪv/*
+
+> Involving comparison; relative.
+
+**比较的**
+
+- This car is cheaper than the comparative model.
+- 这辆车比同类车型更便宜。
+
+*The comparative form of an adjective or adverb is used to show that something has more of a quality than something else.*
+
+---
+
+## network
+
+*/ˈnetwɜːrk/*
+
+> A group or system of interconnected people or things.
+
+**网络/关系网**
+
+- The company has a vast network of suppliers.
+- 这家公司拥有庞大的供应商网络。
+
+*Note: "Network" can refer to both physical and abstract connections.*
+
+
+---
+
