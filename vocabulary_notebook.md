@@ -1,3 +1,19 @@
+## four
+
+*/fɔːr/*
+
+> The number equivalent to the sum of one and three; one more than three.
+
+**四**
+
+- I have four apples in my bag.
+- 我的包里有四个苹果。
+
+*Remember to use "four" with plural nouns (e.g., four apples, four books).*
+
+
+---
+
 ## two
 
 /*tuː/*
