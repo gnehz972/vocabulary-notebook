@@ -1,3 +1,19 @@
+## eight
+
+*/eɪt/*
+
+> The number equivalent to the sum of seven and one; a numeral representing this number (8).
+
+**八**
+
+- I ate eight slices of pizza last night.
+- 我昨晚吃了八片披萨。
+
+*Remember the spelling: "ei" as in "weigh," followed by "ght."*
+
+
+---
+
 ## nice
 
 */naɪs/*
