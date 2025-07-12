@@ -1,3 +1,20 @@
+## nice
+
+*/naɪs/*
+
+> Pleasant, agreeable, or satisfactory.
+
+**好的; 美好的; 友善的**
+
+- She's a really nice person.
+- 她是一个非常好的人。
+
+*“Nice” is a very general word and can be considered somewhat bland in formal writing. Consider using more specific synonyms like "pleasant," "kind," "agreeable," or "enjoyable" for greater impact.*
+
+
+
+---
+
 ## nine
 
 */naɪn/*
