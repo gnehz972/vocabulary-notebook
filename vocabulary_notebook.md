@@ -14,39 +14,7 @@
 <!-- timestamp=2025-07-17T22:08:20.126+08:00 -->
 
 ---
-
 ## ten
-
-*/tɛn/*
-
-> The number equivalent to the sum of nine and one; 10.
-
-**十**
-
-- I have ten fingers.
-- 我有十个手指。
-
-*Ten is the base of our decimal system, influencing how we represent larger numbers.*
-
-<!-- timestamp=2025-07-17T22:04:22.132+08:00 -->
-
----
-## nine
-
-*/naɪn/*
-
-> The number equivalent to the product of three and three; one more than eight.
-
-**九**
-
-- There are nine planets in our solar system.
-- 我们的太阳系有九个行星。
-
-*The word "nine" can also be part of compound words like "nineteen" or "ninety."*
-
-<!-- timestamp=2025-07-17T22:01:22.283+08:00 -->
-
----
 ## eight
 
 */eɪt/*
@@ -154,3 +122,4 @@
 
 <!-- timestamp=2025-07-17T16:45:44.853+08:00 -->
 ---
+## eleven
