@@ -1,3 +1,20 @@
+## two
+
+*/tuː/*
+
+> A number that is one more than one; the second lowest number.
+
+**二**
+
+- I have two cats.
+- 我有两只猫。
+
+*Use "two" before a noun, or as a pronoun replacing a noun phrase that means two.*
+
+
+<!-- timestamp=2025-07-17T16:53:52.160+08:00 -->
+---
+
 ## one
 
 */wʌn/*
