@@ -1,3 +1,20 @@
+## twelve
+
+*/twɛlv/*
+
+> The number equivalent to the sum of eleven and one; a cardinal number.
+
+**十二**
+
+- There are twelve months in a year.
+- 一年有十二个月。
+
+*Twelve is often associated with groups or sets, like a dozen.*
+
+<!-- timestamp=2025-07-17T22:08:20.126+08:00 -->
+
+---
+
 ## ten
 
 */tɛn/*
