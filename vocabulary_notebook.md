@@ -15,23 +15,6 @@
 <!-- timestamp=2025-07-17T13:11:54.483+08:00 -->
 ---
 
-## five
-
-*/faɪv/*
-
-> Being one more than four; a number.
-
-**五**
-
-- I have five apples in my basket.
-- 我的篮子里有五个苹果。
-
-*Generally used to count or quantify something.*
-
-
-<!-- timestamp=2025-07-17T13:10:48.828+08:00 -->
----
-
 ## two
 
 /*tuː*/
@@ -95,4 +78,3 @@
 
 <!-- timestamp=2025-07-17T13:07:19.315+08:00 -->
 ---
-
