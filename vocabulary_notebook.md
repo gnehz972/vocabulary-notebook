@@ -1,3 +1,35 @@
+## meet
+
+/miːt/
+
+> To come into the presence or company of (someone) by chance or arrangement.
+
+**遇见; 会面**
+
+- I will meet you at the coffee shop at 3 pm.
+- 我下午三点在咖啡店和你见面。
+
+*“Meet” can also mean to satisfy a requirement or expectation.*
+
+<!-- timestamp=2025-07-17T14:58:52.052+08:00 -->
+---
+
+## nice
+
+*/naɪs/*
+
+> Pleasant or agreeable.
+
+**好的; 友善的; 美好的**
+
+- She is a very nice person.
+- 她是个非常好的人。
+
+*Avoid overusing "nice" as it can be vague. Use more descriptive words to express your specific meaning.*
+
+<!-- timestamp=2025-07-17T14:43:47.940+08:00 -->
+---
+
 ## four
 
 /*fɔːr*/
