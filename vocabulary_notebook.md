@@ -1,3 +1,20 @@
+## four
+
+/*fɔːr*/
+
+> The number equivalent to the sum of one and one and one and one; a numeral representing this number.
+
+**四**
+
+- I have four apples in my basket.
+- 我的篮子里有四个苹果。
+
+*In some East Asian cultures, the number four is considered unlucky because its pronunciation is similar to the word for "death."*
+
+
+<!-- timestamp=2025-07-17T13:44:42.155+08:00 -->
+---
+
 ## two
 
 /*tuː*/
