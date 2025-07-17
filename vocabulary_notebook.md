@@ -1,20 +1,3 @@
-## seven
-
-/*ˈsevn̩/*
-
-> The number equivalent to the sum of six and one; one more than six.
-
-**七**
-
-- I have seven apples in my basket.
-- 我的篮子里有七个苹果。
-
-*Seven is often associated with luck or completion in various cultures.*
-
-
-<!-- timestamp=2025-07-17T13:20:14.330+08:00 -->
----
-
 ## six
 
 */sɪks/*
