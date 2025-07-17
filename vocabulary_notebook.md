@@ -1,3 +1,19 @@
+## six
+
+*/sɪks/*
+
+> The number equivalent to the sum of five and one; one more than five.
+
+**六**
+
+- There are six apples in the basket.
+- 篮子里有六个苹果。
+
+*Six can also refer to the sixth hour of the day, either AM or PM.*
+
+<!-- timestamp=2025-07-17T21:34:30.103+08:00 -->
+---
+
 ## four
 
 */fɔːr/*
