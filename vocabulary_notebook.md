@@ -1,20 +1,3 @@
-## two
-
-/*tuː*/
-
-> Being one more than one.
-
-**二**
-
-- I have two cats.
-- 我有两只猫。
-
-*Avoid using "twos" as a plural noun. Use "pairs" or "couples" instead.*
-
-
-<!-- timestamp=2025-07-17T11:47:44.397+08:00 -->
----
-
 ## one
 
 */wʌn/*
