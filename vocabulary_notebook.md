@@ -1,3 +1,20 @@
+## six
+
+*/sɪks/*
+
+> A number equivalent to the sum of five and one; the number 6.
+
+**六**
+
+- I have six apples in my basket.
+- 我的篮子里有六个苹果。
+
+*Six is often used as an adjective before a noun, but it can also stand alone as a pronoun.*
+
+
+<!-- timestamp=2025-07-17T13:11:54.483+08:00 -->
+---
+
 ## five
 
 */faɪv/*
