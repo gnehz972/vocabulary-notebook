@@ -1,3 +1,19 @@
+## eight
+
+*/eɪt/*
+
+> The number equivalent to the sum of seven and one; 8.
+
+**八**
+
+- She ate eight cookies after dinner.
+- 她晚饭后吃了八块饼干。
+
+*Remember that "eight" and "ate" are homophones, meaning they sound the same but have different spellings and meanings.*
+
+<!-- timestamp=2025-07-17T21:57:11.216+08:00 -->
+---
+
 ## seven
 
 */ˈsɛvən/*
