@@ -1,3 +1,20 @@
+## eleven
+
+*/ɪˈlevən/*
+
+> The number equivalent to the sum of ten and one; one more than ten.
+
+**十一**
+
+- She has eleven cats.
+- 她有十一只猫。
+
+*Remember that "eleven" is a special word and doesn't follow the standard "ten-one" naming convention like other numbers after twelve.*
+
+<!-- timestamp=2025-07-17T22:05:45.934+08:00 -->
+
+---
+
 ## nine
 
 */naɪn/*
