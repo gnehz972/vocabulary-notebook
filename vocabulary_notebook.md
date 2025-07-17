@@ -1,19 +1,3 @@
-## meet
-
-/miːt/
-
-> To come into the presence or company of (someone) by chance or arrangement.
-
-**遇见; 会面**
-
-- I will meet you at the coffee shop at 3 pm.
-- 我下午三点在咖啡店和你见面。
-
-*“Meet” can also mean to satisfy a requirement or expectation.*
-
-<!-- timestamp=2025-07-17T14:58:52.052+08:00 -->
----
-
 ## nice
 
 */naɪs/*
