@@ -1,3 +1,20 @@
+## much
+
+/* /mʌtʃ/ */
+
+> A large amount of something, typically uncountable.
+
+**多**
+
+- I don't have much time to explain.
+- 我没有太多时间解释。
+
+*Use "much" with uncountable nouns; use "many" with countable nouns.*
+
+<!-- timestamp=2025-07-18T10:08:08.793+08:00 -->
+
+---
+
 ## eleven
 
 */ɪˈlevən/*
