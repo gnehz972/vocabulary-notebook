@@ -1,3 +1,19 @@
+## connect
+
+*/kəˈnɛkt/*
+
+> To join together or be joined together; to link or associate.
+
+**连接，联系**
+
+- I need to connect my laptop to the internet.
+- 我需要将我的笔记本电脑连接到互联网。
+
+*Think about what you are joining when using this word: two physical things, abstract ideas, or people.*
+
+<!-- timestamp=2025-07-18T22:46:11.341+08:00 -->
+
+---
 ## remote
 
 */rɪˈmoʊt/*
