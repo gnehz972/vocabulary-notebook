@@ -1,3 +1,19 @@
+## year
+
+*/jɪər/*
+
+> A period of 365 or 366 days, divided into 12 months, starting on January 1st and ending on December 31st.
+
+**年**
+
+- This year has been particularly challenging.
+- 今年特别具有挑战性。
+
+*A leap year occurs every four years (with some exceptions for century years not divisible by 400) and has 366 days.*
+
+<!-- timestamp=2025-07-18T15:26:56.954+08:00 -->
+
+---
 ## time
 
 */taɪm/*
