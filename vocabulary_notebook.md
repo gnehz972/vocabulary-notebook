@@ -1,17 +1,65 @@
-## keyboard
+## wire
 
-*/ˈkiːbɔːrd/*
+*/ˈwaɪər/*
 
-> An arrangement of keys on a device that can be pressed to operate a computer or typewriter, or a piano.
+> A thin, flexible strand of metal.
 
-**键盘**
+**金属丝**
 
-- He types very fast on the keyboard.
-- 他用键盘打字非常快。
+- The electrician used wire to connect the lights.
+- 电工用金属丝连接灯。
 
-*Consider the context to determine if "keyboard" refers to a physical device or a software representation on a touchscreen.*
+*Pay attention to the context, as "wire" can also be a verb meaning to send a telegram or to equip something with wiring.*
 
-<!-- timestamp=2025-07-18T22:51:44.732+08:00 -->
+<!-- timestamp=2025-07-18T22:51:12.014+08:00 -->
+
+---
+## connect
+
+*/kəˈnɛkt/*
+
+> To join together or be joined together; to link or associate.
+
+**连接，联系**
+
+- I need to connect my laptop to the internet.
+- 我需要将我的笔记本电脑连接到互联网。
+
+*Think about what you are joining when using this word: two physical things, abstract ideas, or people.*
+
+<!-- timestamp=2025-07-18T22:46:11.341+08:00 -->
+
+---
+## remote
+
+*/rɪˈmoʊt/*
+
+> Distant in space or time; far away.
+
+**遥远的**
+
+- The village is very remote and difficult to reach.
+- 这个村庄非常偏远，难以到达。
+
+*The word "remote" can also refer to a device used to control something from a distance, like a remote control.*
+
+<!-- timestamp=2025-07-18T22:43:48.191+08:00 -->
+
+---
+## remote
+
+/rɪˈmoʊt/
+
+> Situated far away; distant.
+
+**遥远的; 偏僻的**
+
+- The cabin is in a remote location, miles from the nearest town.
+- 小屋位于一个偏远的地方，离最近的城镇也有好几英里。
+
+*Consider the context to determine whether "remote" means physically distant, emotionally distant, or related to technology (e.g., a remote control).*
+
+<!-- timestamp=2025-07-18T22:32:39.820+08:00 -->
 
 ---
 ## local
