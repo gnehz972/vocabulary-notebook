@@ -46,22 +46,6 @@
 <!-- timestamp=2025-07-18T15:26:56.954+08:00 -->
 
 ---
-## work
-
-*/wɜːrk/*
-
-> Activity involving mental or physical effort done in order to achieve a purpose or result.
-
-**工作**
-
-- She has been working hard on the project all week.
-- 她这整个星期都在努力工作，完成这个项目。
-
-*Work can be both a countable (a work of art) and an uncountable noun (do some work).*
-
-<!-- timestamp=2025-07-18T14:25:22.247+08:00 -->
-
----
 ## sure
 
 */ʃʊər/*
