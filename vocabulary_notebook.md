@@ -1,3 +1,19 @@
+## time
+
+*/taɪm/*
+
+> The indefinite continued progress of existence and events in the past, present, and future regarded as a whole. Also, a point of time as measured in hours and minutes past midnight or noon.
+
+**时间**
+
+- What time is it?
+- 现在几点了？
+
+*Time can be both countable (a time, times) and uncountable (time is precious).*
+
+<!-- timestamp=2025-07-18T15:26:23.237+08:00 -->
+
+---
 ## day
 
 */deɪ/*
