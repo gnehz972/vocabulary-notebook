@@ -1,3 +1,19 @@
+## sure
+
+*/ʃʊər/*
+
+> Certain; having no doubt; confident.
+
+**确定的，肯定的**
+
+- Are you sure you locked the door?
+- 你确定你锁门了吗？
+
+*Often used as an affirmative response, equivalent to "yes" or "of course."*
+
+<!-- timestamp=2025-07-18T14:16:54.145+08:00 -->
+
+---
 ## tune
 
 */tjuːn/*
