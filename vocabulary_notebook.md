@@ -1,3 +1,19 @@
+## merge
+
+*/mɜːrdʒ/*
+
+> To combine or blend together.
+
+**合并**
+
+- The two companies decided to merge to create a larger, more competitive entity.
+- 两家公司决定合并，以创建一个更大、更具竞争力的实体。
+
+*Merge often implies a more or less equal combination of things, rather than one simply absorbing the other.*
+
+<!-- timestamp=2025-07-18T11:56:37.836+08:00 -->
+
+---
 ## tune
 
 */tjuːn/*
