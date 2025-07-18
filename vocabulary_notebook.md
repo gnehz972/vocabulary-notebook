@@ -1,36 +1,36 @@
-## much
+## merge
 
-/* /mʌtʃ/ */
+*/mɜːrdʒ/*
 
-> A large amount of something, typically uncountable.
+> To combine or blend together, typically things that were previously separate.
 
-**多**
+**合并**
 
-- I don't have much time to explain.
-- 我没有太多时间解释。
+- The two companies decided to merge and create a larger entity.
+- 两家公司决定合并，成立一家更大的实体。
 
-*Use "much" with uncountable nouns; use "many" with countable nouns.*
+*The objects being merged need not be physical; ideas, files, and even abstract concepts can be merged.*
 
-<!-- timestamp=2025-07-18T10:08:08.793+08:00 -->
-
----
-
-## eleven
-
-*/ɪˈlevən/*
-
-> The number equivalent to the sum of ten and one; one more than ten.
-
-**十一**
-
-- She has eleven cats.
-- 她有十一只猫。
-
-*Remember that "eleven" is a special word and doesn't follow the standard "ten-one" naming convention like other numbers after twelve.*
-
-<!-- timestamp=2025-07-17T22:05:45.934+08:00 -->
+<!-- timestamp=2025-07-18T11:50:35.052+08:00 -->
 
 ---
+## twelve
+
+*/twɛlv/*
+
+> The number equivalent to the sum of eleven and one; a cardinal number.
+
+**十二**
+
+- There are twelve months in a year.
+- 一年有十二个月。
+
+*Twelve is often associated with groups or sets, like a dozen.*
+
+<!-- timestamp=2025-07-17T22:08:20.126+08:00 -->
+
+---
+## ten
 ## eight
 
 */eɪt/*
@@ -138,3 +138,4 @@
 
 <!-- timestamp=2025-07-17T16:45:44.853+08:00 -->
 ---
+## eleven
