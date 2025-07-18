@@ -1,3 +1,19 @@
+## keyboard
+
+*/ˈkiːbɔːrd/*
+
+> An arrangement of keys on a device that can be pressed to operate a computer or typewriter, or a piano.
+
+**键盘**
+
+- He types very fast on the keyboard.
+- 他用键盘打字非常快。
+
+*Consider the context to determine if "keyboard" refers to a physical device or a software representation on a touchscreen.*
+
+<!-- timestamp=2025-07-18T22:51:44.732+08:00 -->
+
+---
 ## local
 
 */ˈloʊkəl/*
