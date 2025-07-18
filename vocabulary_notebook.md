@@ -1,3 +1,19 @@
+## hard
+
+*/hɑːrd/*
+
+> Difficult to accomplish; solid or firm; with great effort.
+
+**难; 坚硬; 努力地**
+
+- The test was very hard, and I studied for hours.
+- 这次考试非常难，我学习了好几个小时。
+
+*Note that "hard" can function as an adjective (difficult, solid) or an adverb (with great effort).*
+
+<!-- timestamp=2025-07-18T14:32:18.544+08:00 -->
+
+---
 ## work
 
 */wɜːrk/*
