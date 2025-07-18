@@ -1,17 +1,68 @@
-## merge
+## tune
 
-*/mɜːrdʒ/*
+*/tjuːn/*
 
-> To combine or blend together, typically things that were previously separate.
+> A melody, especially one which characterizes a particular piece of music. Also, to adjust something to the correct frequency or setting.
 
-**合并**
+**曲调；调音**
 
-- The two companies decided to merge and create a larger entity.
-- 两家公司决定合并，成立一家更大的实体。
+- I can't get that tune out of my head!
+- 我无法把那个曲调从我的脑海里赶走！
 
-*The objects being merged need not be physical; ideas, files, and even abstract concepts can be merged.*
+*The word "tune" can be a noun or a verb, depending on the context.*
 
-<!-- timestamp=2025-07-18T11:50:35.052+08:00 -->
+<!-- timestamp=2025-07-18T11:47:41.260+08:00 -->
+
+---
+## refine
+
+*/rɪˈfaɪn/*
+
+> To improve (something) by making small changes, in particular to make it more subtle and accurate.
+
+**提炼，改进**
+
+- The company is constantly refining its marketing strategy to reach a wider audience.
+- 公司正在不断改进其营销策略，以覆盖更广泛的受众。
+
+*Refine can also mean to purify a substance by removing unwanted elements.*
+
+<!-- timestamp=2025-07-18T11:42:40.914+08:00 -->
+
+---
+
+## done
+
+*/dʌn/*
+
+> Completed, finished, or accomplished.
+
+**完成**
+
+- I am done with my homework.
+- 我已经完成了我的作业。
+
+*“Done” can also imply agreement or acceptance, as in "Done deal!".*
+
+<!-- timestamp=2025-07-18T11:30:35.533+08:00 -->
+
+---
+
+
+## shine
+
+/* /ʃaɪn/ */
+
+> To emit light; to be bright by reflection.
+
+**发光；照耀**
+
+- The sun began to shine, melting the snow.
+- 太阳开始发光，融化了积雪。
+
+*The word "shine" can be used both as a verb (to emit light) and a noun (brightness, polish, or a shoe polish). Be mindful of the context.*
+
+<!-- timestamp=2025-07-18T11:14:57.524+08:00 -->
 
 ---
 ## twelve
