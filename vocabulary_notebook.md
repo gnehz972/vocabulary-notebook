@@ -30,22 +30,6 @@
 <!-- timestamp=2025-07-18T15:26:23.237+08:00 -->
 
 ---
-## day
-
-*/deɪ/*
-
-> A period of 24 hours as a unit of time, reckoned from one midnight to the next. Also, the period of light between sunrise and sunset.
-
-**天**
-
-- I had a great day at work.
-- 我今天在工作上过得很棒。
-
-*Note that "day" can refer to both the entire 24-hour period and just the daylight hours.*
-
-<!-- timestamp=2025-07-18T15:26:07.783+08:00 -->
-
----
 ## hard
 
 */hɑːrd/*
