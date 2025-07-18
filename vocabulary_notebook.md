@@ -14,22 +14,6 @@
 <!-- timestamp=2025-07-18T15:30:35.444+08:00 -->
 
 ---
-## word
-
-*/wɜːrd/*
-
-> A unit of language that has meaning and can be spoken or written.
-
-**词; 话**
-
-- She gave me her word that she would be there.
-- 她向我保证她会到那里。
-
-*The word "word" can also refer to a promise or guarantee, as in the example above.*
-
-<!-- timestamp=2025-07-18T15:30:02.776+08:00 -->
-
----
 ## year
 
 */jɪər/*
