@@ -1,3 +1,19 @@
+## local
+
+*/ˈloʊkəl/*
+
+> Belonging to or characteristic of a particular place or area; near or affecting only a particular area.
+
+**本地的; 局部的**
+
+- The local bakery makes the best bread in town.
+- 本地的面包店做镇上最好的面包。
+
+*Remember "local" can refer to a place or a community, not just a specific person.*
+
+<!-- timestamp=2025-07-18T22:11:35.658+08:00 -->
+
+---
 ## work
 
 */wɜːrk/*
