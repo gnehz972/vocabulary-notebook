@@ -14,22 +14,6 @@
 <!-- timestamp=2025-07-18T22:11:35.658+08:00 -->
 
 ---
-## work
-
-*/wɜːrk/*
-
-> Activity involving mental or physical effort done in order to achieve a purpose or result.
-
-**工作**
-
-- She goes to work every day at 8 am.
-- 她每天早上八点去上班。
-
-*The word "work" can be both a noun and a verb. Pay attention to the context to determine its part of speech.*
-
-<!-- timestamp=2025-07-18T15:30:35.444+08:00 -->
-
----
 ## year
 
 */jɪər/*
