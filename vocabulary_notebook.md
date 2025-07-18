@@ -1,5 +1,21 @@
 ## remote
 
+*/rɪˈmoʊt/*
+
+> Distant in space or time; far away.
+
+**遥远的**
+
+- The village is very remote and difficult to reach.
+- 这个村庄非常偏远，难以到达。
+
+*The word "remote" can also refer to a device used to control something from a distance, like a remote control.*
+
+<!-- timestamp=2025-07-18T22:43:48.191+08:00 -->
+
+---
+## remote
+
 /rɪˈmoʊt/
 
 > Situated far away; distant.
