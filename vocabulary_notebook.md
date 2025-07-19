@@ -14,22 +14,6 @@
 <!-- timestamp=2025-07-19T10:05:44.893+08:00 -->
 
 ---
-## wire
-
-*/ˈwaɪər/*
-
-> A thin, flexible strand of metal.
-
-**金属丝**
-
-- The electrician used wire to connect the lights.
-- 电工用金属丝连接灯。
-
-*Pay attention to the context, as "wire" can also be a verb meaning to send a telegram or to equip something with wiring.*
-
-<!-- timestamp=2025-07-18T22:51:12.014+08:00 -->
-
----
 ## connect
 
 */kəˈnɛkt/*
