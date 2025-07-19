@@ -1,3 +1,19 @@
+## indeed
+
+*/ɪnˈdiːd/*
+
+> Used to express agreement, acceptance, or emphasis.
+
+**确实，的确，真正地**
+
+- The weather is beautiful indeed.
+- 天气确实很美。
+
+*Indeed can sometimes sound formal, so consider the context.*
+
+<!-- timestamp=2025-07-19T10:05:44.893+08:00 -->
+
+---
 ## wire
 
 */ˈwaɪər/*
