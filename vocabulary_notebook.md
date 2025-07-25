@@ -1,19 +1,3 @@
-## test
-
-*/tɛst/*
-
-> A procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use.
-
-**测试; 试验; 考验**
-
-- I need to take a blood test.
-- 我需要做个血液测试。
-
-*“Test” can be a noun or a verb. Be mindful of the context to understand which meaning is intended.*
-
-<!-- timestamp=2025-07-25T15:49:02.985+08:00 -->
-
----
 ## generative
 
 */ˈdʒenəreɪtɪv/*
