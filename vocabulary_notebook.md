@@ -1,3 +1,19 @@
+## normalization
+
+*/ˌnɔːrmələˈzeɪʃən/*
+
+> The act of bringing or returning something to a normal condition or state.
+
+**标准化; 规范化**
+
+- The normalization of relations between the two countries is a positive step.
+- 两国关系的正常化是一个积极的步骤。
+
+*Normalization can also refer to data normalization in databases or statistics.*
+
+<!-- timestamp=2025-07-25T16:28:45.735+08:00 -->
+
+---
 ## nuanced
 
 */ˈnuːɑːnst/*

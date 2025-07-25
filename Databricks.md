@@ -16,3 +16,10 @@ MPT-7b
 ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a metric specifically designed to evaluate summarization quality by comparing generated summaries to reference summaries.
 
 BLEU is used for evaluating translation tasks, not summarization.
+
+PyFunc models allow for modular and reusable custom Python-based preprocessing steps, making them ideal for query normalization.
+PyFunc is an MLflow feature that enables custom preprocessing or postprocessing logic to be easily integrated with machine learning workflows. It is efficient, reusable, and ideal for query normalization tasks.
+
+## Concept
+PyFunc
+Spark
