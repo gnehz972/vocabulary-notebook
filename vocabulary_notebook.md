@@ -1,3 +1,19 @@
+## throughput
+
+*/ˈθruːpʊt/*
+
+> The amount of material or items passing through a system or process.
+
+**生产量; 吞吐量; 通过量**
+
+- The factory increased its throughput by 15%.
+- 工厂的生产量提高了百分之十五。
+
+*Throughput is often used in technical contexts related to computing, manufacturing, and data processing.*
+
+<!-- timestamp=2025-07-25T16:58:03.865+08:00 -->
+
+---
 ## normalization
 
 */ˌnɔːrmələˈzeɪʃən/*
