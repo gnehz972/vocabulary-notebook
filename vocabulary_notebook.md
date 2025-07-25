@@ -1,17 +1,17 @@
 ## aptitude
 
-/ˈæptɪˌtud/
+*/ˈæptɪˌtud/*
 
-> A natural ability to do something or a natural tendency to learn something quickly and easily.
+> A natural ability to do something.
 
-**天资；才能；资质**
+**天赋; 资质; 才能**
 
-- She has a natural aptitude for music and picked up the guitar in no time.
-- 她对音乐有天生的才能，很快就学会了弹吉他。
+- He has a natural aptitude for music.
+- 他有天生的音乐天赋。
 
-*Aptitude is often used to predict someone's potential success in a particular field or activity, even if they have little prior experience.*
+*Aptitude refers to potential, not necessarily current skill. It indicates a person's likelihood of success in a particular area.*
 
-<!-- timestamp=2025-07-24T15:03:35.952+08:00 -->
+<!-- timestamp=2025-07-25T14:37:09.451+08:00 -->
 
 ---
 ## daunting
@@ -124,22 +124,6 @@
 *Useful for describing something that is slightly off, rather than completely broken.*
 
 <!-- timestamp=2025-07-22T22:03:07.464+08:00 -->
-
----
-## ideation
-
-/ˌaɪdiˈeɪʃən/
-
-> The process of forming ideas or concepts.
-
-**构思**
-
-- The ideation phase is crucial for generating innovative solutions.
-- 构思阶段对于产生创新解决方案至关重要。
-
-*Ideation is often a collaborative process, involving brainstorming and other techniques.*
-
-<!-- timestamp=2025-07-22T22:02:07.723+08:00 -->
 
 ---
 ## accumulating
