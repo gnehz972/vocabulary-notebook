@@ -1,3 +1,19 @@
+## nuanced
+
+*/ˈnuːɑːnst/*
+
+> Characterized by subtle shades of meaning or expression.
+
+**细微的; 精妙的; 具有细微差别的**
+
+- The article presented a nuanced view of the economic crisis.
+- 这篇文章对经济危机提出了精妙的看法。
+
+*Often used to describe complex ideas or arguments that avoid simplistic or black-and-white thinking.*
+
+<!-- timestamp=2025-07-25T16:24:03.186+08:00 -->
+
+---
 ## profanity
 
 */prəˈfænɪti/*

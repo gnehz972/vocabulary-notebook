@@ -9,6 +9,9 @@ spark.conf.set() is typically used for Spark configuration and is not suitable f
 
 Vector Search index? Delta table, dataframe
 
+BGE-large
+MPT-7b
+
 
 ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a metric specifically designed to evaluate summarization quality by comparing generated summaries to reference summaries.
 
