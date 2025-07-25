@@ -1,3 +1,19 @@
+## profanity
+
+*/prəˈfænɪti/*
+
+> Blasphemous or obscene language.
+
+**亵渎; 污言秽语; 咒骂**
+
+- The comedian's routine was filled with profanity.
+- 那个喜剧演员的表演充满了污言秽语。
+
+*Profanity often carries strong emotional or social weight and can be considered offensive in certain contexts.*
+
+<!-- timestamp=2025-07-25T16:12:35.160+08:00 -->
+
+---
 ## generative
 
 */ˈdʒenəreɪtɪv/*
