@@ -1,3 +1,19 @@
+## exacerbating
+
+*/ɪɡˈzæsərbeɪtɪŋ/*
+
+> Making (a problem, bad situation, or negative feeling) worse.
+
+**加剧的; 恶化的**
+
+- The new law is exacerbating the problem.
+- 这项新法律正在加剧这个问题。
+
+*Often used in formal or academic contexts. Consider synonyms like "worsening" or "aggravating" for less formal situations.*
+
+<!-- timestamp=2025-07-28T10:45:41.881+08:00 -->
+
+---
 ## throughput
 
 */ˈθruːpʊt/*
