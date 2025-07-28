@@ -1,3 +1,19 @@
+## curated
+
+*/ˈkjʊəreɪtɪd/*
+
+> Carefully selected and organized for presentation, often online.
+
+**策划的; 精心挑选的**
+
+- This museum has a beautifully curated collection of modern art.
+- 这个博物馆有一个精心策划的现代艺术收藏。
+
+*Often used to describe online content, exhibitions, or experiences where someone has made careful choices about what to include.*
+
+<!-- timestamp=2025-07-28T11:29:57.624+08:00 -->
+
+---
 ## escalation
 
 */ˌeskəˈleɪʃən/*
