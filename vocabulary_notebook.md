@@ -1,3 +1,19 @@
+## escalation
+
+*/ˌeskəˈleɪʃən/*
+
+> An increase in intensity or seriousness; an intensification.
+
+**升级; 恶化; 逐步上升**
+
+- The escalation of the conflict led to a full-scale war.
+- 冲突的升级导致了全面战争。
+
+*Escalation often implies a negative or dangerous increase, especially in conflict or problems.*
+
+<!-- timestamp=2025-07-28T10:55:38.682+08:00 -->
+
+---
 ## exacerbating
 
 */ɪɡˈzæsərbeɪtɪŋ/*
