@@ -1,3 +1,19 @@
+## exploratory
+
+*/ɪkˈsplɔːrətɔːri/*
+
+> Relating to or involving exploration or investigation.
+
+**探索性的; 考察的**
+
+- The company launched an exploratory mission to Mars.
+- 公司发起了一项探索性的火星任务。
+
+*Often used to describe research, studies, or missions that aim to discover something new or understand something better.*
+
+<!-- timestamp=2025-07-28T14:27:28.658+08:00 -->
+
+---
 ## lineage
 
 */ˈlɪnɪɪdʒ/*
