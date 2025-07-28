@@ -1,3 +1,19 @@
+## perplexity
+
+*/pərˈplɛksɪti/*
+
+> The state of being perplexed; bewilderment; confusion.
+
+**困惑; 茫然; 迷惑**
+
+- He stared at the problem in complete perplexity.
+- 他茫然地盯着这个问题。
+
+*Perplexity often implies a temporary state of mental confusion due to complexity or lack of understanding.*
+
+<!-- timestamp=2025-07-28T15:44:48.632+08:00 -->
+
+---
 ## skew
 
 */skjuː/*
