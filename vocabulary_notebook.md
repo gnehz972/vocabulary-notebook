@@ -1,3 +1,19 @@
+## itinerary
+
+*/aɪˈtɪnəreri/*
+
+> A planned route or journey.
+
+**行程; 旅行计划**
+
+- We followed a detailed itinerary during our trip.
+- 我们在旅行期间遵循了详细的行程计划。
+
+*Often used in the context of travel or scheduled events.*
+
+<!-- timestamp=2025-07-28T16:20:08.933+08:00 -->
+
+---
 ## guardrails
 
 */ˈɡɑːrdreɪlz/*
