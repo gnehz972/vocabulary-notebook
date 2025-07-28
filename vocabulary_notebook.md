@@ -1,3 +1,19 @@
+## spam
+
+*/spæm/*
+
+> Irrelevant or unsolicited messages sent over the Internet, typically to a large number of users, for the purposes of advertising, phishing, spreading malware, etc.
+
+**垃圾邮件; 滥发信息**
+
+- I get so much spam in my email inbox every day.
+- 我每天在我的电子邮件收件箱里收到很多垃圾邮件。
+
+*While "spam" originally referred to a canned meat product, its primary meaning now relates to unwanted online communications.*
+
+<!-- timestamp=2025-07-28T17:16:20.817+08:00 -->
+
+---
 ## itinerary
 
 */aɪˈtɪnəreri/*
