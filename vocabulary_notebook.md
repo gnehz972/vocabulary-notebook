@@ -1,3 +1,19 @@
+## lineage
+
+*/ˈlɪnɪɪdʒ/*
+
+> A line of descendants from an ancestor.
+
+**血统; 世系**
+
+- The prince was proud of his royal lineage.
+- 王子为他的皇家血统感到自豪。
+
+*Lineage often implies a family history of some importance or distinction.*
+
+<!-- timestamp=2025-07-28T12:13:27.802+08:00 -->
+
+---
 ## chewy
 
 */ˈtʃuːi/*
