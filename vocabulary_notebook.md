@@ -1,3 +1,19 @@
+## skew
+
+*/skjuː/*
+
+> To distort or bias; to take an oblique angle.
+
+**歪斜; 偏颇; 使歪斜**
+
+- The data was skewed by a small sample size.
+- 这个数据因样本量小而产生偏差。
+
+*Skew can refer to both a physical distortion and a figurative bias.*
+
+<!-- timestamp=2025-07-28T15:21:08.834+08:00 -->
+
+---
 ## lingua
 
 */ˈlɪŋɡwə/*
