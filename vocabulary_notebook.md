@@ -1,3 +1,19 @@
+## crispy
+
+*/ˈkrɪspi/*
+
+> Having a firm, dry, and brittle texture or surface.
+
+**脆的; 酥脆的**
+
+- The bacon was perfectly crispy.
+- 这培根非常酥脆。
+
+*Often used to describe food, particularly fried or baked items.*
+
+<!-- timestamp=2025-07-28T12:01:43.618+08:00 -->
+
+---
 ## curated
 
 */ˈkjʊəreɪtɪd/*
