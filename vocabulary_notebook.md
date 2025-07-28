@@ -1,3 +1,19 @@
+## coherent
+
+*/koʊˈhɪrənt/*
+
+> Logically connected and consistent.
+
+**连贯的; 一致的; 条理清晰的**
+
+- Her argument was very coherent and easy to follow.
+- 她的论点非常连贯，很容易理解。
+
+*Coherent often implies a logical and well-structured presentation of ideas.*
+
+<!-- timestamp=2025-07-28T15:47:26.037+08:00 -->
+
+---
 ## perplexity
 
 */pərˈplɛksɪti/*
