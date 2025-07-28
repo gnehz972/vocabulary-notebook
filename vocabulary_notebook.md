@@ -1,3 +1,19 @@
+## chewy
+
+*/ˈtʃuːi/*
+
+> Requiring much chewing.
+
+**耐嚼的; 有嚼劲的**
+
+- This caramel is very chewy.
+- 这块焦糖非常有嚼劲。
+
+*“Chewy” often implies a pleasant texture, unlike "tough," which suggests difficulty in chewing.*
+
+<!-- timestamp=2025-07-28T12:02:09.675+08:00 -->
+
+---
 ## crispy
 
 */ˈkrɪspi/*
