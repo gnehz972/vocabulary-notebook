@@ -1,3 +1,19 @@
+## lingua
+
+*/ˈlɪŋɡwə/*
+
+> A language, especially one used by a particular group of people.
+
+**语言; 某种语言**
+
+- Latin was once the lingua franca of Europe.
+- 拉丁语曾经是欧洲的通用语。
+
+*Lingua often implies a language used for communication between groups with different native languages.*
+
+<!-- timestamp=2025-07-28T14:41:40.636+08:00 -->
+
+---
 ## exploratory
 
 */ɪkˈsplɔːrətɔːri/*
