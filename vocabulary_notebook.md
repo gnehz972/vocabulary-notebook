@@ -1,3 +1,19 @@
+## guardrails
+
+*/ˈɡɑːrdreɪlz/*
+
+> A rail or barrier used as a safety feature, especially alongside roads or bridges.
+
+**护栏; 栏杆**
+
+- The guardrails prevented the car from going over the cliff.
+- 护栏防止了汽车坠下悬崖。
+
+*While primarily used in a literal, physical sense, the term can be used metaphorically to describe rules or guidelines that provide safety and prevent undesirable outcomes.*
+
+<!-- timestamp=2025-07-28T15:50:48.795+08:00 -->
+
+---
 ## coherent
 
 */koʊˈhɪrənt/*
