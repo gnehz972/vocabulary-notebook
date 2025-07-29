@@ -1,3 +1,19 @@
+## accreditation
+
+*/əˌkredɪˈteɪʃən/*
+
+> The act of officially recognizing someone or something as having a particular status or being qualified to perform a particular activity.
+
+**认证; 鉴定; 认可**
+
+- The university sought accreditation from the national board.
+- 这所大学寻求国家委员会的认证。
+
+*Accreditation often implies meeting specific standards set by a recognized authority.*
+
+<!-- timestamp=2025-07-29T17:05:04.702+08:00 -->
+
+---
 ## adversarial
 
 */ˌædvərˈseəriəl/*
