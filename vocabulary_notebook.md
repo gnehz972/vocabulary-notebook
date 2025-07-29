@@ -1,3 +1,19 @@
+## adversarial
+
+*/ˌædvərˈseəriəl/*
+
+> Involving or characterized by conflict or opposition.
+
+**对抗性的; 敌对的**
+
+- The negotiation process became adversarial.
+- 谈判过程变得具有对抗性。
+
+*Often used to describe relationships, systems, or processes where parties are in opposition.*
+
+<!-- timestamp=2025-07-29T15:59:35.377+08:00 -->
+
+---
 ## spam
 
 */spæm/*
