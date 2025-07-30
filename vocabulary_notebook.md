@@ -1,3 +1,19 @@
+## phonetics
+
+*/ˈfoʊnɛtɪks/*
+
+> The study of the sounds of human speech, including their production, perception, and physical properties.
+
+**语音学**
+
+- Phonetics is essential for learning how to pronounce words correctly.
+- 语音学对于正确发音非常重要。
+
+*Phonetics differs from phonology, which focuses on the sound systems of languages rather than individual speech sounds.*
+
+<!-- timestamp=2025-07-30T10:26:52.015+08:00 -->
+
+---
 ## trait
 
 */treɪt/*
