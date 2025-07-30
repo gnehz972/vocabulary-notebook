@@ -1,3 +1,19 @@
+## adequate
+
+*/ˈædɪkwət/*
+
+> Sufficient for a specific need or purpose.
+
+**足够的; 充分的; 合格的**
+
+- The food was adequate for our needs.
+- 食物足够我们所需。
+
+*“Adequate” suggests meeting a minimum requirement, but not necessarily being excellent.*
+
+<!-- timestamp=2025-07-30T10:01:29.265+08:00 -->
+
+---
 ## accreditation
 
 */əˌkredɪˈteɪʃən/*
