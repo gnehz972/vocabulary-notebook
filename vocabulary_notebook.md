@@ -1,3 +1,19 @@
+## 人工智能
+
+*/rén gōng zhì néng/*
+
+> Artificial intelligence (AI); the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
+
+**Artificial Intelligence**
+
+- 人工智能正在迅速发展，并影响着我们生活的方方面面。
+- Artificial intelligence is developing rapidly and affecting all aspects of our lives.
+
+*This term is widely used and understood in both Chinese and English. It's important to note that the discussion and ethical considerations surrounding AI are also prevalent in Chinese discourse.*
+
+<!-- timestamp=2025-07-30T11:05:00.942+08:00 -->
+
+---
 ## adequate
 
 */ˈædɪkwət/*
