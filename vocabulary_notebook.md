@@ -1,3 +1,17 @@
+## a little bit
+
+> A small amount; a slight degree; to some extent. Can be used with countable or uncountable nouns.
+
+**一点点; 有一点儿**
+
+- I'm a little bit tired today.
+- 我今天有点累。
+
+*Can be used as an adverb to modify adjectives, verbs, or adverbs. The synonym is "a bit".*
+
+<!-- timestamp=2025-07-30T11:08:19.281+08:00 -->
+
+---
 ## 大巧不工
 
 */dà qiǎo bù gōng/*
