@@ -1,10 +1,3 @@
-## 人工智能正在飞速发展，并影响着我们生活的方方面面。
-
-**Artificial intelligence is developing rapidly and affecting all aspects of our lives.**
-
-<!-- timestamp=2025-07-30T11:11:11.092+08:00 -->
-
----
 ## Artificial intelligence is developing rapidly and affecting all aspects of our lives.
 
 **人工智能正在飞速发展，并影响着我们生活的方方面面。**
