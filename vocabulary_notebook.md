@@ -1,3 +1,19 @@
+## trait
+
+*/treɪt/*
+
+> A distinguishing quality or characteristic of a person or thing.
+
+**特质；特点**
+
+- Honesty is a valuable trait in a leader.  
+- 诚实是领导者的重要特质。
+
+*Can refer to both positive and negative characteristics, often used in the context of personality or behavior.*
+
+<!-- timestamp=2025-07-30T10:19:08.455+08:00 -->
+
+---
 ## Accelerate your career opportunities by being at the leading edge of technology innovation.
 
 **通过处于技术创新的前沿，加速您的职业发展机会。**
