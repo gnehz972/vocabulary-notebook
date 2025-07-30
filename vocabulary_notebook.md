@@ -1,3 +1,10 @@
+## Accelerate your career opportunities by being at the leading edge of technology innovation.
+
+**通过处于技术创新的前沿，加速您的职业发展机会。**
+
+<!-- timestamp=2025-07-30T09:22:59.029+08:00 -->
+
+---
 ## false positive
 
 > A result that incorrectly indicates the presence of a condition or characteristic when it is not actually present.
