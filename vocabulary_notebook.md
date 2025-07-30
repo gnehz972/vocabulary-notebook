@@ -1,3 +1,19 @@
+## 大巧不工
+
+*/dà qiǎo bù gōng/*
+
+> The greatest skill appears artless; true mastery lies in simplicity; great skill seems unskilled. This phrase describes a level of skill so profound that it appears effortless and natural, lacking the obvious display of technique. It implies that true mastery goes beyond elaborate or intricate displays.
+
+**Great skill appears unskilled; Simplicity is the ultimate sophistication; True mastery is effortless**
+
+- 他的书法看起来很简单，但其实是大巧不工。
+- His calligraphy looks simple, but in fact, it embodies the principle of great skill appearing unskilled.
+
+*This idiom is often used to praise someone's skill that is so refined and natural it doesn't seem like work at all. It's often linked to Taoist philosophy, where simplicity and naturalness are highly valued.*
+
+<!-- timestamp=2025-07-30T11:05:51.837+08:00 -->
+
+---
 ## 人工智能
 
 */rén gōng zhì néng/*
