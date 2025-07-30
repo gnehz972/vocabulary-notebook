@@ -1,3 +1,10 @@
+## Artificial intelligence is developing rapidly and affecting all aspects of our lives.
+
+**人工智能正在飞速发展，并影响着我们生活的方方面面。**
+
+<!-- timestamp=2025-07-30T11:08:53.884+08:00 -->
+
+---
 ## a little bit
 
 > A small amount; a slight degree; to some extent. Can be used with countable or uncountable nouns.
