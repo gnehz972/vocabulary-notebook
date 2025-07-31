@@ -1,3 +1,72 @@
+## false positive
+
+> A result that incorrectly indicates the presence of a condition or characteristic when it is not actually present.
+
+**假阳性**
+
+- The test gave a false positive for the disease, causing unnecessary worry.
+- 这项测试对疾病给出了假阳性的结果，导致了不必要的担忧。
+
+*Used in medical testing, scientific research, and data analysis to describe errors where a negative condition is mistakenly identified as positive.*
+
+<!-- timestamp=2025-07-29T23:16:08.866+08:00 -->
+
+---
+## Accelerate your career opportunities by being at the leading edge of technology innovation.
+
+**通过处于技术创新的前沿，加速您的职业发展机会。**
+
+<!-- timestamp=2025-07-30T09:22:59.029+08:00 -->
+
+---
+## trait
+
+*/treɪt/*
+
+> A distinguishing quality or characteristic of a person or thing.
+
+**特质；特点**
+
+- Honesty is a valuable trait in a leader.  
+- 诚实是领导者的重要特质。
+
+*Can refer to both positive and negative characteristics, often used in the context of personality or behavior.*
+
+<!-- timestamp=2025-07-30T10:19:08.455+08:00 -->
+
+---
+## phonetics
+
+*/ˈfoʊnɛtɪks/*
+
+> The study of the sounds of human speech, including their production, perception, and physical properties.
+
+**语音学**
+
+- Phonetics is essential for learning how to pronounce words correctly.
+- 语音学对于正确发音非常重要。
+
+*Phonetics differs from phonology, which focuses on the sound systems of languages rather than individual speech sounds.*
+
+<!-- timestamp=2025-07-30T10:26:52.015+08:00 -->
+
+---
+## interpolation
+
+*/ɪnˌtɜːrpəˈleɪʃən/*
+
+> 1. The insertion of something of a different nature into something else. 2. Estimation of a value within two known values in a sequence of values.
+
+**插值；篡改；插入语**
+
+- The editor suspected interpolation in the ancient manuscript.
+- 编辑怀疑古代手稿中存在篡改。
+
+*Interpolation can refer to adding text into a document (often implying it's unauthorized), or in mathematics and computer science, estimating values between known data points.*
+
+<!-- timestamp=2025-07-31T11:53:04.300+08:00 -->
+
+---
 ## Mutually Exclusive
 
 > Two or more events are mutually exclusive if they cannot occur at the same time. If one event happens, the other(s) cannot. This term is often used in probability and statistics.
