@@ -1,70 +1,367 @@
-## interpolation
+## Mutually Exclusive
 
-*/ɪnˌtɜːrpəˈleɪʃən/*
+> Two or more events are mutually exclusive if they cannot occur at the same time. If one event happens, the other(s) cannot. This term is often used in probability and statistics.
 
-> 1. The insertion of something of a different nature into something else. 2. Estimation of a value within two known values in a sequence of values.
+**互斥**
 
-**插值；篡改；插入语**
+- Choosing heads and tails on a single coin toss are mutually exclusive events.
+- 在一次抛硬币中，正面朝上和反面朝上是互斥事件。
 
-- The editor suspected interpolation in the ancient manuscript.
-- 编辑怀疑古代手稿中存在篡改。
+*The concept of mutually exclusive events is fundamental to understanding probability and statistical analysis. It is important to note that independent events are different from mutually exclusive events. Two independent events can both happen at the same time; mutually exclusive events cannot.*
 
-*Interpolation can refer to adding text into a document (often implying it's unauthorized), or in mathematics and computer science, estimating values between known data points.*
-
-<!-- timestamp=2025-07-31T11:53:04.300+08:00 -->
+<!-- timestamp=2025-07-31T09:45:17.991+08:00 -->
 
 ---
-## phonetics
+## adequate
 
-*/ˈfoʊnɛtɪks/*
+*/ˈædɪkwət/*
 
-> The study of the sounds of human speech, including their production, perception, and physical properties.
+> Sufficient for a specific need or purpose.
 
-**语音学**
+**足够的; 充分的; 合格的**
 
-- Phonetics is essential for learning how to pronounce words correctly.
-- 语音学对于正确发音非常重要。
+- The food was adequate for our needs.
+- 食物足够我们所需。
 
-*Phonetics differs from phonology, which focuses on the sound systems of languages rather than individual speech sounds.*
+*“Adequate” suggests meeting a minimum requirement, but not necessarily being excellent.*
 
-<!-- timestamp=2025-07-30T10:26:52.015+08:00 -->
-
----
-## trait
-
-*/treɪt/*
-
-> A distinguishing quality or characteristic of a person or thing.
-
-**特质；特点**
-
-- Honesty is a valuable trait in a leader.  
-- 诚实是领导者的重要特质。
-
-*Can refer to both positive and negative characteristics, often used in the context of personality or behavior.*
-
-<!-- timestamp=2025-07-30T10:19:08.455+08:00 -->
+<!-- timestamp=2025-07-30T10:01:29.265+08:00 -->
 
 ---
-## Accelerate your career opportunities by being at the leading edge of technology innovation.
+## accreditation
 
-**通过处于技术创新的前沿，加速您的职业发展机会。**
+*/əˌkredɪˈteɪʃən/*
 
-<!-- timestamp=2025-07-30T09:22:59.029+08:00 -->
+> The act of officially recognizing someone or something as having a particular status or being qualified to perform a particular activity.
+
+**认证; 鉴定; 认可**
+
+- The university sought accreditation from the national board.
+- 这所大学寻求国家委员会的认证。
+
+*Accreditation often implies meeting specific standards set by a recognized authority.*
+
+<!-- timestamp=2025-07-29T17:05:04.702+08:00 -->
 
 ---
-## false positive
+## adversarial
 
-> A result that incorrectly indicates the presence of a condition or characteristic when it is not actually present.
+*/ˌædvərˈseəriəl/*
 
-**假阳性**
+> Involving or characterized by conflict or opposition.
 
-- The test gave a false positive for the disease, causing unnecessary worry.
-- 这项测试对疾病给出了假阳性的结果，导致了不必要的担忧。
+**对抗性的; 敌对的**
 
-*Used in medical testing, scientific research, and data analysis to describe errors where a negative condition is mistakenly identified as positive.*
+- The negotiation process became adversarial.
+- 谈判过程变得具有对抗性。
 
-<!-- timestamp=2025-07-29T23:16:08.866+08:00 -->
+*Often used to describe relationships, systems, or processes where parties are in opposition.*
+
+<!-- timestamp=2025-07-29T15:59:35.377+08:00 -->
+
+---
+## spam
+
+*/spæm/*
+
+> Irrelevant or unsolicited messages sent over the Internet, typically to a large number of users, for the purposes of advertising, phishing, spreading malware, etc.
+
+**垃圾邮件; 滥发信息**
+
+- I get so much spam in my email inbox every day.
+- 我每天在我的电子邮件收件箱里收到很多垃圾邮件。
+
+*While "spam" originally referred to a canned meat product, its primary meaning now relates to unwanted online communications.*
+
+<!-- timestamp=2025-07-28T17:16:20.817+08:00 -->
+
+---
+## itinerary
+
+*/aɪˈtɪnəreri/*
+
+> A planned route or journey.
+
+**行程; 旅行计划**
+
+- We followed a detailed itinerary during our trip.
+- 我们在旅行期间遵循了详细的行程计划。
+
+*Often used in the context of travel or scheduled events.*
+
+<!-- timestamp=2025-07-28T16:20:08.933+08:00 -->
+
+---
+## guardrails
+
+*/ˈɡɑːrdreɪlz/*
+
+> A rail or barrier used as a safety feature, especially alongside roads or bridges.
+
+**护栏; 栏杆**
+
+- The guardrails prevented the car from going over the cliff.
+- 护栏防止了汽车坠下悬崖。
+
+*While primarily used in a literal, physical sense, the term can be used metaphorically to describe rules or guidelines that provide safety and prevent undesirable outcomes.*
+
+<!-- timestamp=2025-07-28T15:50:48.795+08:00 -->
+
+---
+## coherent
+
+*/koʊˈhɪrənt/*
+
+> Logically connected and consistent.
+
+**连贯的; 一致的; 条理清晰的**
+
+- Her argument was very coherent and easy to follow.
+- 她的论点非常连贯，很容易理解。
+
+*Coherent often implies a logical and well-structured presentation of ideas.*
+
+<!-- timestamp=2025-07-28T15:47:26.037+08:00 -->
+
+---
+## perplexity
+
+*/pərˈplɛksɪti/*
+
+> The state of being perplexed; bewilderment; confusion.
+
+**困惑; 茫然; 迷惑**
+
+- He stared at the problem in complete perplexity.
+- 他茫然地盯着这个问题。
+
+*Perplexity often implies a temporary state of mental confusion due to complexity or lack of understanding.*
+
+<!-- timestamp=2025-07-28T15:44:48.632+08:00 -->
+
+---
+## skew
+
+*/skjuː/*
+
+> To distort or bias; to take an oblique angle.
+
+**歪斜; 偏颇; 使歪斜**
+
+- The data was skewed by a small sample size.
+- 这个数据因样本量小而产生偏差。
+
+*Skew can refer to both a physical distortion and a figurative bias.*
+
+<!-- timestamp=2025-07-28T15:21:08.834+08:00 -->
+
+---
+## lingua
+
+*/ˈlɪŋɡwə/*
+
+> A language, especially one used by a particular group of people.
+
+**语言; 某种语言**
+
+- Latin was once the lingua franca of Europe.
+- 拉丁语曾经是欧洲的通用语。
+
+*Lingua often implies a language used for communication between groups with different native languages.*
+
+<!-- timestamp=2025-07-28T14:41:40.636+08:00 -->
+
+---
+## exploratory
+
+*/ɪkˈsplɔːrətɔːri/*
+
+> Relating to or involving exploration or investigation.
+
+**探索性的; 考察的**
+
+- The company launched an exploratory mission to Mars.
+- 公司发起了一项探索性的火星任务。
+
+*Often used to describe research, studies, or missions that aim to discover something new or understand something better.*
+
+<!-- timestamp=2025-07-28T14:27:28.658+08:00 -->
+
+---
+## lineage
+
+*/ˈlɪnɪɪdʒ/*
+
+> A line of descendants from an ancestor.
+
+**血统; 世系**
+
+- The prince was proud of his royal lineage.
+- 王子为他的皇家血统感到自豪。
+
+*Lineage often implies a family history of some importance or distinction.*
+
+<!-- timestamp=2025-07-28T12:13:27.802+08:00 -->
+
+---
+## chewy
+
+*/ˈtʃuːi/*
+
+> Requiring much chewing.
+
+**耐嚼的; 有嚼劲的**
+
+- This caramel is very chewy.
+- 这块焦糖非常有嚼劲。
+
+*“Chewy” often implies a pleasant texture, unlike "tough," which suggests difficulty in chewing.*
+
+<!-- timestamp=2025-07-28T12:02:09.675+08:00 -->
+
+---
+## crispy
+
+*/ˈkrɪspi/*
+
+> Having a firm, dry, and brittle texture or surface.
+
+**脆的; 酥脆的**
+
+- The bacon was perfectly crispy.
+- 这培根非常酥脆。
+
+*Often used to describe food, particularly fried or baked items.*
+
+<!-- timestamp=2025-07-28T12:01:43.618+08:00 -->
+
+---
+## curated
+
+*/ˈkjʊəreɪtɪd/*
+
+> Carefully selected and organized for presentation, often online.
+
+**策划的; 精心挑选的**
+
+- This museum has a beautifully curated collection of modern art.
+- 这个博物馆有一个精心策划的现代艺术收藏。
+
+*Often used to describe online content, exhibitions, or experiences where someone has made careful choices about what to include.*
+
+<!-- timestamp=2025-07-28T11:29:57.624+08:00 -->
+
+---
+## escalation
+
+*/ˌeskəˈleɪʃən/*
+
+> An increase in intensity or seriousness; an intensification.
+
+**升级; 恶化; 逐步上升**
+
+- The escalation of the conflict led to a full-scale war.
+- 冲突的升级导致了全面战争。
+
+*Escalation often implies a negative or dangerous increase, especially in conflict or problems.*
+
+<!-- timestamp=2025-07-28T10:55:38.682+08:00 -->
+
+---
+## exacerbating
+
+*/ɪɡˈzæsərbeɪtɪŋ/*
+
+> Making (a problem, bad situation, or negative feeling) worse.
+
+**加剧的; 恶化的**
+
+- The new law is exacerbating the problem.
+- 这项新法律正在加剧这个问题。
+
+*Often used in formal or academic contexts. Consider synonyms like "worsening" or "aggravating" for less formal situations.*
+
+<!-- timestamp=2025-07-28T10:45:41.881+08:00 -->
+
+---
+## throughput
+
+*/ˈθruːpʊt/*
+
+> The amount of material or items passing through a system or process.
+
+**生产量; 吞吐量; 通过量**
+
+- The factory increased its throughput by 15%.
+- 工厂的生产量提高了百分之十五。
+
+*Throughput is often used in technical contexts related to computing, manufacturing, and data processing.*
+
+<!-- timestamp=2025-07-25T16:58:03.865+08:00 -->
+
+---
+## normalization
+
+*/ˌnɔːrmələˈzeɪʃən/*
+
+> The act of bringing or returning something to a normal condition or state.
+
+**标准化; 规范化**
+
+- The normalization of relations between the two countries is a positive step.
+- 两国关系的正常化是一个积极的步骤。
+
+*Normalization can also refer to data normalization in databases or statistics.*
+
+<!-- timestamp=2025-07-25T16:28:45.735+08:00 -->
+
+---
+## nuanced
+
+*/ˈnuːɑːnst/*
+
+> Characterized by subtle shades of meaning or expression.
+
+**细微的; 精妙的; 具有细微差别的**
+
+- The article presented a nuanced view of the economic crisis.
+- 这篇文章对经济危机提出了精妙的看法。
+
+*Often used to describe complex ideas or arguments that avoid simplistic or black-and-white thinking.*
+
+<!-- timestamp=2025-07-25T16:24:03.186+08:00 -->
+
+---
+## profanity
+
+*/prəˈfænɪti/*
+
+> Blasphemous or obscene language.
+
+**亵渎; 污言秽语; 咒骂**
+
+- The comedian's routine was filled with profanity.
+- 那个喜剧演员的表演充满了污言秽语。
+
+*Profanity often carries strong emotional or social weight and can be considered offensive in certain contexts.*
+
+<!-- timestamp=2025-07-25T16:12:35.160+08:00 -->
+
+---
+## generative
+
+*/ˈdʒenəreɪtɪv/*
+
+> Producing or creating.
+
+**生成的; 产生的; 具有创造性的**
+
+- The generative AI model can create realistic images.
+- 这个生成式人工智能模型可以创建逼真的图像。
+
+*Often used in the context of AI, art, and creative processes where new content is automatically created.*
+
+<!-- timestamp=2025-07-25T14:45:09.430+08:00 -->
 
 ---
 ## aptitude
