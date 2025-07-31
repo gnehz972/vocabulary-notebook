@@ -1,3 +1,17 @@
+## false positive
+
+> An incorrect identification of something as present or true when it is not actually present or true. It indicates that a condition exists when it does not.
+
+**假阳性；误报**
+
+- The test result came back as a false positive, indicating he had the disease when he actually didn't.
+- 测试结果显示为假阳性，表明他患有该疾病，但实际上他并没有。
+
+*Often used in medical testing, security systems, and statistical analysis where a positive result is wrongly indicated.*
+
+<!-- timestamp=2025-07-31T15:23:13.903+08:00 -->
+
+---
 ## false negative
 
 > A test result that incorrectly indicates that a condition or attribute is absent when it is actually present. In simpler terms, it's a "miss" – the test says "no," but the truth is "yes."
