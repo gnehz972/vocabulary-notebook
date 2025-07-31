@@ -1,3 +1,22 @@
+## discounted
+
+*/ˈdɪskaʊntɪd/*
+
+> 1. Reduced in price; offered at a lower price than usual. 2. Regarded as being not worth much consideration because of a lack of credibility; dismissed.
+
+**打折的；被低估的，不被重视的**
+
+- The store offered discounted prices on all winter clothing.
+- 这家商店所有冬季服装都打折销售。
+
+- His claims were discounted by the scientific community due to lack of evidence.
+- 他的说法由于缺乏证据而被科学界驳斥。
+
+*The word "discounted" can refer both to reduced prices and the act of dismissing an idea or claim. Pay attention to context to understand the intended meaning.*
+
+<!-- timestamp=2025-07-31T14:44:15.599+08:00 -->
+
+---
 ## acronym
 
 */ˈækrənɪm/*
