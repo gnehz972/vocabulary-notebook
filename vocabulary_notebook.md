@@ -1,3 +1,17 @@
+## Mutually Exclusive
+
+> Two or more events are mutually exclusive if they cannot occur at the same time. If one event happens, the other(s) cannot. This term is often used in probability and statistics.
+
+**互斥**
+
+- Choosing heads and tails on a single coin toss are mutually exclusive events.
+- 在一次抛硬币中，正面朝上和反面朝上是互斥事件。
+
+*The concept of mutually exclusive events is fundamental to understanding probability and statistical analysis. It is important to note that independent events are different from mutually exclusive events. Two independent events can both happen at the same time; mutually exclusive events cannot.*
+
+<!-- timestamp=2025-07-31T09:45:17.991+08:00 -->
+
+---
 ## adequate
 
 */ˈædɪkwət/*
