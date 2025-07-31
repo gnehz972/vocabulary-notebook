@@ -1,3 +1,19 @@
+## acronym
+
+*/ˈækrənɪm/*
+
+> An abbreviation formed from the initial letters of other words and pronounced as a word (e.g., NASA, radar).
+
+**首字母缩略词 (发音为单词)**
+
+- NASA is an acronym for National Aeronautics and Space Administration.
+- NASA 是美国国家航空航天局的首字母缩略词。
+
+*Distinguish from initialism where each letter is pronounced separately (e.g., FBI).*
+
+<!-- timestamp=2025-07-31T14:43:32.723+08:00 -->
+
+---
 ## false positive
 
 > A result that incorrectly indicates the presence of a condition or characteristic when it is not actually present.
