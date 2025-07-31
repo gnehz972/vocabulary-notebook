@@ -1,3 +1,17 @@
+## false negative
+
+> A test result that incorrectly indicates that a condition or attribute is absent when it is actually present. In simpler terms, it's a "miss" – the test says "no," but the truth is "yes."
+
+**假阴性**
+
+- The test gave a false negative, so he unknowingly spread the disease.
+- 测试结果呈假阴性，因此他在不知情的情况下传播了疾病。
+
+*Most commonly used in medical testing, but also applicable in data analysis, security systems, and other contexts where classification errors occur. The severity of the consequence of a false negative depends on the specific situation. For example, a false negative on a cancer screening test could delay crucial treatment.*
+
+<!-- timestamp=2025-07-31T15:21:50.203+08:00 -->
+
+---
 ## more than good enough
 
 > Exceeds the minimum requirements; better than satisfactory; sufficient to a high degree.
