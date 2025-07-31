@@ -61,20 +61,6 @@
 <!-- timestamp=2025-07-31T14:43:32.723+08:00 -->
 
 ---
-## false positive
-
-> A result that incorrectly indicates the presence of a condition or characteristic when it is not actually present.
-
-**假阳性**
-
-- The test gave a false positive for the disease, causing unnecessary worry.
-- 这项测试对疾病给出了假阳性的结果，导致了不必要的担忧。
-
-*Used in medical testing, scientific research, and data analysis to describe errors where a negative condition is mistakenly identified as positive.*
-
-<!-- timestamp=2025-07-29T23:16:08.866+08:00 -->
-
----
 ## trait
 
 */treɪt/*
