@@ -1,3 +1,19 @@
+## interpolation
+
+*/ɪnˌtɜːrpəˈleɪʃən/*
+
+> 1. The insertion of something of a different nature into something else. 2. Estimation of a value within two known values in a sequence of values.
+
+**插值；篡改；插入语**
+
+- The editor suspected interpolation in the ancient manuscript.
+- 编辑怀疑古代手稿中存在篡改。
+
+*Interpolation can refer to adding text into a document (often implying it's unauthorized), or in mathematics and computer science, estimating values between known data points.*
+
+<!-- timestamp=2025-07-31T11:53:04.300+08:00 -->
+
+---
 ## phonetics
 
 */ˈfoʊnɛtɪks/*
