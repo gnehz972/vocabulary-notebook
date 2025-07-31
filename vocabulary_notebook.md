@@ -12,13 +12,6 @@
 <!-- timestamp=2025-07-29T23:16:08.866+08:00 -->
 
 ---
-## Accelerate your career opportunities by being at the leading edge of technology innovation.
-
-**通过处于技术创新的前沿，加速您的职业发展机会。**
-
-<!-- timestamp=2025-07-30T09:22:59.029+08:00 -->
-
----
 ## trait
 
 */treɪt/*
