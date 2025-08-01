@@ -1,3 +1,19 @@
+## 虎鲸
+
+*/hǔ jīng/*
+
+> Orca; Killer Whale. This term literally translates to "tiger whale," reflecting the animal's predatory nature and dominance in the ocean.
+
+**Orca; Killer Whale**
+
+- 虎鲸是海洋中最强大的掠食者之一。
+- Orcas are one of the most powerful predators in the ocean.
+
+*The term "虎鲸" is the standard Chinese term for orca. While the English term "killer whale" might suggest aggression towards humans, orcas rarely attack humans in the wild. "虎鲸" simply refers to their powerful hunting abilities.*
+
+<!-- timestamp=2025-08-01T18:05:11.460+08:00 -->
+
+---
 ## false positive
 
 > An incorrect identification of something as present or true when it is not actually present or true. It indicates that a condition exists when it does not.
