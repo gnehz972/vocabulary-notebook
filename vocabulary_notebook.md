@@ -1,19 +1,3 @@
-## big
-
-*/bɪɡ/*
-
-> Of considerable size, extent, or intensity.
-
-**大的; 重要的**
-
-- That's a big house.
-- 那是一栋大房子。
-
-*Used to describe physical size, importance, or intensity. Can also be used figuratively.*
-
-<!-- timestamp=2025-08-01T17:38:56.635+08:00 -->
-
----
 ## false positive
 
 > An incorrect identification of something as present or true when it is not actually present or true. It indicates that a condition exists when it does not.
