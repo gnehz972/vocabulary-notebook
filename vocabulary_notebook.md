@@ -1,17 +1,126 @@
-## 虎鲸
+## false positive
 
-*/hǔ jīng/*
+> An incorrect identification of something as present or true when it is not actually present or true. It indicates that a condition exists when it does not.
 
-> Orca; Killer Whale. This term literally translates to "tiger whale," reflecting the animal's predatory nature and dominance in the ocean.
+**假阳性；误报**
 
-**Orca; Killer Whale**
+- The test result came back as a false positive, indicating he had the disease when he actually didn't.
+- 测试结果显示为假阳性，表明他患有该疾病，但实际上他并没有。
 
-- 虎鲸是海洋中最强大的掠食者之一。
-- Orcas are one of the most powerful predators in the ocean.
+*Often used in medical testing, security systems, and statistical analysis where a positive result is wrongly indicated.*
 
-*The term "虎鲸" is the standard Chinese term for orca. While the English term "killer whale" might suggest aggression towards humans, orcas rarely attack humans in the wild. "虎鲸" simply refers to their powerful hunting abilities.*
+<!-- timestamp=2025-07-31T15:23:13.903+08:00 -->
 
-<!-- timestamp=2025-08-01T18:05:11.460+08:00 -->
+---
+## false negative
+
+> A test result that incorrectly indicates that a condition or attribute is absent when it is actually present. In simpler terms, it's a "miss" – the test says "no," but the truth is "yes."
+
+**假阴性**
+
+- The test gave a false negative, so he unknowingly spread the disease.
+- 测试结果呈假阴性，因此他在不知情的情况下传播了疾病。
+
+*Most commonly used in medical testing, but also applicable in data analysis, security systems, and other contexts where classification errors occur. The severity of the consequence of a false negative depends on the specific situation. For example, a false negative on a cancer screening test could delay crucial treatment.*
+
+<!-- timestamp=2025-07-31T15:21:50.203+08:00 -->
+
+---
+## more than good enough
+
+> Exceeds the minimum requirements; better than satisfactory; sufficient to a high degree.
+
+**绰绰有余; 足够好，甚至更好**
+
+- The team's performance was more than good enough to win the championship.
+- 团队的表现远远超出了赢得冠军的要求。
+
+*This phrase often implies a level of quality or sufficiency that is comfortably beyond what is needed, suggesting confidence and a lack of worry about meeting expectations.*
+
+<!-- timestamp=2025-07-31T14:49:05.600+08:00 -->
+
+---
+## discounted
+
+*/ˈdɪskaʊntɪd/*
+
+> 1. Reduced in price; offered at a lower price than usual. 2. Regarded as being not worth much consideration because of a lack of credibility; dismissed.
+
+**打折的；被低估的，不被重视的**
+
+- The store offered discounted prices on all winter clothing.
+- 这家商店所有冬季服装都打折销售。
+
+- His claims were discounted by the scientific community due to lack of evidence.
+- 他的说法由于缺乏证据而被科学界驳斥。
+
+*The word "discounted" can refer both to reduced prices and the act of dismissing an idea or claim. Pay attention to context to understand the intended meaning.*
+
+<!-- timestamp=2025-07-31T14:44:15.599+08:00 -->
+
+---
+## acronym
+
+*/ˈækrənɪm/*
+
+> An abbreviation formed from the initial letters of other words and pronounced as a word (e.g., NASA, radar).
+
+**首字母缩略词 (发音为单词)**
+
+- NASA is an acronym for National Aeronautics and Space Administration.
+- NASA 是美国国家航空航天局的首字母缩略词。
+
+*Distinguish from initialism where each letter is pronounced separately (e.g., FBI).*
+
+<!-- timestamp=2025-07-31T14:43:32.723+08:00 -->
+
+---
+## trait
+
+*/treɪt/*
+
+> A distinguishing quality or characteristic of a person or thing.
+
+**特质；特点**
+
+- Honesty is a valuable trait in a leader.  
+- 诚实是领导者的重要特质。
+
+*Can refer to both positive and negative characteristics, often used in the context of personality or behavior.*
+
+<!-- timestamp=2025-07-30T10:19:08.455+08:00 -->
+
+---
+## phonetics
+
+*/ˈfoʊnɛtɪks/*
+
+> The study of the sounds of human speech, including their production, perception, and physical properties.
+
+**语音学**
+
+- Phonetics is essential for learning how to pronounce words correctly.
+- 语音学对于正确发音非常重要。
+
+*Phonetics differs from phonology, which focuses on the sound systems of languages rather than individual speech sounds.*
+
+<!-- timestamp=2025-07-30T10:26:52.015+08:00 -->
+
+---
+## interpolation
+
+*/ɪnˌtɜːrpəˈleɪʃən/*
+
+> 1. The insertion of something of a different nature into something else. 2. Estimation of a value within two known values in a sequence of values.
+
+**插值；篡改；插入语**
+
+- The editor suspected interpolation in the ancient manuscript.
+- 编辑怀疑古代手稿中存在篡改。
+
+*Interpolation can refer to adding text into a document (often implying it's unauthorized), or in mathematics and computer science, estimating values between known data points.*
+
+<!-- timestamp=2025-07-31T11:53:04.300+08:00 -->
 
 ---
 ## Mutually Exclusive
