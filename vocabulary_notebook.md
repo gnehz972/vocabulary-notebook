@@ -1,22 +1,3 @@
-## spawn
-
-*/spɔːn/*
-
-> (of a fish, frog, mollusk, crustacean, etc.) release or deposit eggs; (of a person, place, or thing) produce or generate something.
-
-**产卵；产生；引起**
-
-- The salmon swim upstream to spawn.
-- 鲑鱼逆流而上产卵。
-
-- The band's success spawned numerous imitators.
-- 这个乐队的成功催生了无数模仿者。
-
-*Can refer to the act of laying eggs by aquatic animals or the creation/generation of something, often rapidly and in large quantities.*
-
-<!-- timestamp=2025-08-01T14:30:16.136+08:00 -->
-
----
 ## false positive
 
 > An incorrect identification of something as present or true when it is not actually present or true. It indicates that a condition exists when it does not.
