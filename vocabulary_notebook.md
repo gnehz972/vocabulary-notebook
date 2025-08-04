@@ -1,3 +1,19 @@
+## monologue
+
+*/ˈmɒnəlɒɡ/*
+
+> A long speech by one person in a play, movie, or as part of a theatrical or broadcast program. Also, a prolonged talk or discourse by a single speaker, especially one dominating or monopolizing a conversation.
+
+**独白; 个人长篇演讲**
+
+- The play opened with a powerful monologue delivered by the protagonist.
+- 这出戏以主角一段精彩的独白开场。
+
+*A monologue can be a theatrical device or simply refer to a situation where one person does most of the talking.*
+
+<!-- timestamp=2025-08-04T10:55:48.896+08:00 -->
+
+---
 ## 虎鲸
 
 */hǔ jīng/*
