@@ -1,3 +1,19 @@
+## tinkering
+
+*/ˈtɪŋkərɪŋ/*
+
+> The act of attempting to repair or improve something in a casual or desultory way, often to no useful effect. It also refers to making small adjustments or improvements to something, especially a machine or piece of equipment.
+
+**小修小补；瞎摆弄；略作修改**
+
+- He enjoys tinkering with old cars in his garage.
+- 他喜欢在车库里摆弄旧汽车。
+
+*Often implies a playful or experimental approach to fixing or improving things, rather than a professional or systematic one.*
+
+<!-- timestamp=2025-08-05T16:48:14.172+08:00 -->
+
+---
 ## monologue
 
 */ˈmɒnəlɒɡ/*
