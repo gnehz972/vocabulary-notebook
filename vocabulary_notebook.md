@@ -108,20 +108,6 @@
 <!-- timestamp=2025-07-31T15:21:50.203+08:00 -->
 
 ---
-## more than good enough
-
-> Exceeds the minimum requirements; better than satisfactory; sufficient to a high degree.
-
-**绰绰有余; 足够好，甚至更好**
-
-- The team's performance was more than good enough to win the championship.
-- 团队的表现远远超出了赢得冠军的要求。
-
-*This phrase often implies a level of quality or sufficiency that is comfortably beyond what is needed, suggesting confidence and a lack of worry about meeting expectations.*
-
-<!-- timestamp=2025-07-31T14:49:05.600+08:00 -->
-
----
 ## discounted
 
 */ˈdɪskaʊntɪd/*
