@@ -1,3 +1,19 @@
+## readiness
+
+*/ˈrɛdɪnəs/*
+
+> The state of being fully prepared for something.
+
+**准备就绪；愿意**
+
+- The soldiers were in a state of readiness for battle.
+- 士兵们处于战斗的准备状态。
+
+*Readiness can refer to physical preparedness, mental preparedness, or willingness to do something.*
+
+<!-- timestamp=2025-08-06T09:59:31.416+08:00 -->
+
+---
 ## tinkering
 
 */ˈtɪŋkərɪŋ/*
