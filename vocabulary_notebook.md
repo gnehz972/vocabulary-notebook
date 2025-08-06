@@ -1,3 +1,19 @@
+## opinionated
+
+*/əˈpɪnjənd/*
+
+> Having or showing a strong, fixed opinion; not easily swayed by others.
+
+**固执己见的；有主见的**
+
+- She is very opinionated and rarely changes her mind.
+- 她非常固执己见，很少改变主意。
+
+*Often used to describe someone who has strong views and is confident in their beliefs, sometimes in a way that can be seen as stubborn.*
+
+<!-- timestamp=2025-08-06T15:44:50.765+08:00 -->
+
+---
 ## pronouns
 
 */ˈprɑːnʌnz/*
