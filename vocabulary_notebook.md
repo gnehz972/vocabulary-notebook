@@ -1,3 +1,21 @@
+## pronouns
+
+*/ˈprɑːnʌnz/*
+
+> Words that are used in place of nouns to refer to people, animals, or things.
+
+**代词**
+
+- She is my sister.  
+- 她是我的姐姐。
+
+*Pronouns can change depending on the subject, object, or possession (e.g., I, me, my; he, him, his; they, them, their).*
+
+**Note:** Pronouns help avoid repetition and make sentences more concise. They can be personal, possessive, reflexive, demonstrative, interrogative, or relative.
+
+<!-- timestamp=2025-08-06T10:43:03.184+08:00 -->
+
+---
 ## readiness
 
 */ˈrɛdɪnəs/*
