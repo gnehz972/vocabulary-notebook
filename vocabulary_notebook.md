@@ -1,3 +1,21 @@
+## contour
+
+*/ˈkɒntər/ or /ˈkɑːntər/*
+
+> The outline or shape of something, especially when viewed from a distance or in silhouette.
+
+**轮廓；外形**
+
+- The mountain's contour was clearly visible against the sky.
+- 山的轮廓在天空下清晰可见。
+
+*Can also refer to the subtle changes in elevation on a map or the shaping of something by hand.*
+
+**Note:** In art and design, "contour" often refers to the line that defines the edge of a form. In geography, it can mean a line on a map connecting points of equal elevation.
+
+<!-- timestamp=2025-08-07T18:08:34.131+08:00 -->
+
+---
 ## opinionated
 
 */əˈpɪnjənd/*
