@@ -1,3 +1,19 @@
+## fleet
+
+*/fliːt/*
+
+> A group of ships or aircraft, especially one that is organized for military service.
+
+**舰队；机群**
+
+- The navy deployed a fleet to protect the shipping lanes.
+- 海军部署了一支舰队来保护航运航线。
+
+*Can also refer to a quick movement of vehicles or people, such as a "fleet of cars" or "fleet of footsteps."*
+
+<!-- timestamp=2025-08-11T14:49:58.451+08:00 -->
+
+---
 ## tenancy
 
 */ˈtenəns/*
