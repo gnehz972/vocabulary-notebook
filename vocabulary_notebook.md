@@ -1,3 +1,19 @@
+## upfront
+
+*/ˌʌpˈfrʌnt/*
+
+> Paid or done at the beginning of a process or agreement.
+
+**预先支付；事先**
+
+- The cost of the service is paid upfront.
+- 该服务的费用需事先支付。
+
+*Used to describe payments, efforts, or commitments made before a task or project begins.*
+
+<!-- timestamp=2025-08-11T14:52:27.589+08:00 -->
+
+---
 ## fleet
 
 */fliːt/*
