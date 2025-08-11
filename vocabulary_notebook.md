@@ -1,3 +1,19 @@
+## on-premises
+
+*/ˌɒn ˈprɛmɪsɪz/*
+
+> Relating to or located on the physical site of an organization, rather than in a remote location such as the cloud.
+
+**本地部署；在场的**
+
+- The company decided to keep its data on-premises for security reasons.  
+- 公司为了安全原因决定将数据本地部署。
+
+*Often used in IT contexts to describe systems or infrastructure that are hosted internally rather than through a third-party service.*
+
+<!-- timestamp=2025-08-11T15:00:06.777+08:00 -->
+
+---
 ## upfront
 
 */ˌʌpˈfrʌnt/*
