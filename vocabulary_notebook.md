@@ -1,3 +1,19 @@
+## tenancy
+
+*/ˈtenəns/*
+
+> The state or condition of being a tenant; the period during which someone occupies a property under a lease.
+
+**租约；租用状态**
+
+- The tenancy agreement lasted for one year.
+- 租约为期一年。
+
+*Often used in the context of rental agreements between landlords and tenants.*
+
+<!-- timestamp=2025-08-11T14:21:17.579+08:00 -->
+
+---
 ## contour
 
 */ˈkɒntər/ or /ˈkɑːntər/*
