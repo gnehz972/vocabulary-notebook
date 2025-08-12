@@ -1,3 +1,19 @@
+## polygon
+
+*/ˈpɒlɪɡən/*
+
+> A closed plane figure bounded by three or more straight sides.
+
+**多边形**
+
+- A triangle is a type of polygon with three sides.
+- 三角形是一种有三条边的多边形。
+
+*The term is commonly used in geometry to describe shapes like triangles, quadrilaterals, pentagons, etc.*
+
+<!-- timestamp=2025-08-12T22:58:04.518+08:00 -->
+
+---
 ## vertices
 
 */ˈvɜːrtɪsiːz/*
