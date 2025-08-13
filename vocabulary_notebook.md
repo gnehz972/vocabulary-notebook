@@ -1,19 +1,3 @@
-## vertices
-
-*/ˈvɜːr.tɪ.siz/*
-
-> The point where two or more edges meet in a geometric shape, especially a polygon or polyhedron.
-
-**顶点**
-
-- A triangle has three vertices.
-- 三角形有三个顶点。
-
-*The plural of "vertex," often used in geometry to describe corners of shapes.*
-
-<!-- timestamp=2025-08-13T15:29:00.825+08:00 -->
-
----
 ## on-premises
 
 */ˌɑnˈprɛmɪsɪz/*
