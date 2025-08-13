@@ -1,3 +1,19 @@
+## on-premises
+
+*/ˌɑnˈprɛmɪsɪz/*
+
+> Relating to or located on the physical site of an organization, as opposed to being hosted remotely or in the cloud.
+
+**本地部署的；在场所内的**
+
+- The company decided to keep its data on-premises for security reasons.  
+- 公司出于安全原因决定将数据本地部署。
+
+*Often used in IT and business contexts to describe systems or services that are physically located at the organization's own site.*
+
+<!-- timestamp=2025-08-13T15:00:37.355+08:00 -->
+
+---
 ## vertices
 
 */ˈvɜːrtɪsiːz/*
@@ -12,22 +28,6 @@
 *Used in geometry to describe the corners of shapes. The singular form is "vertex."*
 
 <!-- timestamp=2025-08-13T15:00:21.186+08:00 -->
-
----
-## on-premises
-
-*/ˌɒn ˈprɛmɪsɪz/*
-
-> Relating to or located on the physical site of an organization, rather than in a remote location such as the cloud.
-
-**本地部署；在场的**
-
-- The company decided to keep its data on-premises for security reasons.  
-- 公司为了安全原因决定将数据本地部署。
-
-*Often used in IT contexts to describe systems or infrastructure that are hosted internally rather than through a third-party service.*
-
-<!-- timestamp=2025-08-11T15:00:06.777+08:00 -->
 
 ---
 ## upfront
