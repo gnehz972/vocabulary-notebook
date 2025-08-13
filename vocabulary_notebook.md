@@ -1,3 +1,19 @@
+## kiro
+
+*/ˈkiːroʊ/*
+
+> A type of traditional Japanese paper made from the inner bark of the mulberry tree, often used in art and calligraphy.
+
+**和纸**
+
+- Artists use kiro to create delicate and long-lasting artworks.
+- 艺术家使用和纸创作精致且持久的艺术作品。
+
+*Note: Kiro is also sometimes spelled as "kiri" or "washi," but "kiro" specifically refers to the paper made from mulberry bark.*
+
+<!-- timestamp=2025-08-13T15:33:02.874+08:00 -->
+
+---
 ## on-premises
 
 */ˌɑnˈprɛmɪsɪz/*
