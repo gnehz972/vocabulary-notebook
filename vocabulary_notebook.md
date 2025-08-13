@@ -1,3 +1,19 @@
+## vertices
+
+*/ˈvɜːr.tɪ.siz/*
+
+> The point where two or more edges meet in a geometric shape, especially a polygon or polyhedron.
+
+**顶点**
+
+- A triangle has three vertices.
+- 三角形有三个顶点。
+
+*The plural of "vertex," often used in geometry to describe corners of shapes.*
+
+<!-- timestamp=2025-08-13T15:29:00.825+08:00 -->
+
+---
 ## on-premises
 
 */ˌɑnˈprɛmɪsɪz/*
@@ -12,22 +28,6 @@
 *Often used in IT and business contexts to describe systems or services that are physically located at the organization's own site.*
 
 <!-- timestamp=2025-08-13T15:00:37.355+08:00 -->
-
----
-## vertices
-
-*/ˈvɜːrtɪsiːz/*
-
-> The point where two or more edges meet in a polygon or polyhedron.
-
-**顶点**
-
-- A triangle has three vertices.
-- 三角形有三个顶点。
-
-*Used in geometry to describe the corners of shapes. The singular form is "vertex."*
-
-<!-- timestamp=2025-08-13T15:00:21.186+08:00 -->
 
 ---
 ## upfront
