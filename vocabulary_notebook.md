@@ -14,22 +14,6 @@
 <!-- timestamp=2025-08-12T17:04:42.814+08:00 -->
 
 ---
-## 示意图
-
-*/shì yì tú/*
-
-> A schematic diagram or a simplified illustration that shows the structure, components, or process of something in a clear and visual way.
-
-**Schematic diagram; Illustration**
-
-- 这个示意图展示了电路的基本连接方式。
-- This schematic diagram shows the basic connections in a circuit.
-
-*Commonly used in technical, educational, and instructional contexts to explain complex systems or processes in a simplified manner.*
-
-<!-- timestamp=2025-08-12T15:57:48.409+08:00 -->
-
----
 ## on-premises
 
 */ˌɒn ˈprɛmɪsɪz/*
