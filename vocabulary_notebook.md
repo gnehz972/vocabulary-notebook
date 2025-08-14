@@ -1,3 +1,19 @@
+## quadrilateral
+
+*/ˈkwɒdrɪlætərəl/*
+
+> A four-sided figure or shape, especially one with four straight sides and four angles.
+
+**四边形**
+
+- A square is a type of quadrilateral.
+- 正方形是一种四边形。
+
+*Can refer to both regular (like squares and rectangles) and irregular four-sided shapes.*
+
+<!-- timestamp=2025-08-14T22:31:57.288+08:00 -->
+
+---
 ## kiro
 
 */ˈkiːroʊ/*
