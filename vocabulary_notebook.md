@@ -1,3 +1,19 @@
+## leaderboard
+
+*/ˈliːdərbɔːrd/*
+
+> A board or other display showing the current ranking of participants in a competition, especially in sports or games.
+
+**排行榜**
+
+- The golfer watched the leaderboard anxiously to see if his score was holding up.
+- 高尔夫球手焦急地看着排行榜，想知道他的分数是否能保持领先。
+
+*Often used in the context of sports, video games, and online competitions to track performance.*
+
+<!-- timestamp=2025-08-18T10:47:27.849+08:00 -->
+
+---
 ## quadrilateral
 
 */ˈkwɒdrɪlætərəl/*
