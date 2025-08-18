@@ -1,3 +1,19 @@
+## morale
+
+*/məˈrɑːl/*
+
+> The confidence, enthusiasm, and discipline of a person or group at a particular time.
+
+**士气；精神面貌**
+
+- The team's morale was high after their recent victory.
+- 球队在最近的胜利后士气高昂。
+
+*Morale can be affected by success, failure, leadership, and working conditions.*
+
+<!-- timestamp=2025-08-18T13:29:29.708+08:00 -->
+
+---
 ## leaderboard
 
 */ˈliːdərbɔːrd/*
