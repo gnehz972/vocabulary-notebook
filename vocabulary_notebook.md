@@ -1,3 +1,19 @@
+## expedited
+
+*/ˈekspɪdaɪtɪd/*
+
+> To speed up the progress or process of; accelerate.
+
+**加速的；迅速处理的**
+
+- We requested expedited shipping to receive the package sooner.
+- 我们要求加急运输，以便更快收到包裹。
+
+*This term is often used in the context of shipping, processing applications, or handling urgent matters.*
+
+<!-- timestamp=2025-08-20T12:11:05.300+08:00 -->
+
+---
 ## glacier
 
 */ˈɡleɪʃər/*
