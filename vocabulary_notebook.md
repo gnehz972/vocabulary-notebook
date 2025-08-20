@@ -1,3 +1,19 @@
+## epoch
+
+*/ˈepɒk/*
+
+> A period of time in history or a person's life, typically one marked by notable events or particular characteristics.
+
+**纪元；时期；新时代**
+
+- The invention of the printing press marked a new epoch in human history.
+- 印刷机的发明标志着人类历史的新纪元。
+
+*Can refer to a significant period in various fields such as history, geology, or computer science (e.g., a training epoch in machine learning).*
+
+<!-- timestamp=2025-08-20T23:29:48.628+08:00 -->
+
+---
 ## expedited
 
 */ˈekspɪdaɪtɪd/*
