@@ -1,3 +1,19 @@
+## glacier
+
+*/ˈɡleɪʃər/*
+
+> A slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles.
+
+**冰川**
+
+- The glacier advanced down the valley, carving out a U-shaped landscape.
+- 冰川向下移动，雕刻出了一个U型景观。
+
+*Glaciers are important indicators of climate change and can have significant impacts on sea levels.*
+
+<!-- timestamp=2025-08-20T11:57:23.767+08:00 -->
+
+---
 ## morale
 
 */məˈrɑːl/*
