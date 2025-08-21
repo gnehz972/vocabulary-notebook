@@ -1,3 +1,19 @@
+## anomalies
+
+*/əˈnɒməliz/*
+
+> Plural form of anomaly: deviations from the common rule; irregularities. Something that deviates from what is standard, normal, or expected.
+
+**异常现象；反常事物 (複數)**
+
+- The scientists were puzzled by the temperature anomalies in the ocean.
+- 科学家们对海洋中的温度异常现象感到困惑。
+
+*This word is often used in scientific, statistical, and medical contexts to describe observations that don't fit the expected pattern.*
+
+<!-- timestamp=2025-08-21T14:51:25.176+08:00 -->
+
+---
 ## epoch
 
 */ˈepɒk/*
