@@ -1,17 +1,36 @@
-## morphological
+## Morphological Erosion
 
-*/ˌmɔːrfəˈlɑːdʒɪkəl/*
+> In linguistics, morphological erosion refers to the gradual loss or simplification of morphemes (the smallest meaningful units of language) over time, often resulting in a decrease in the complexity of a language's morphology (word structure). It often involves the loss of inflections (changes in word form to indicate grammatical function), prefixes, or suffixes.
 
-> Relating to the branch of biology that deals with the form of living organisms, and with relationships between their structures, or relating to the study of the forms of words.
+**形态侵蚀; 形态退化**
 
-**形态学的；词法学的**
+- Over centuries, English has undergone significant morphological erosion, losing many of its original inflections.
+- 几个世纪以来，英语经历了显著的形态侵蚀，失去了许多原有的屈折变化。
 
-- The morphological analysis of the plant revealed its unique characteristics.
-- 对该植物的形态学分析揭示了其独特的特征。
+*Morphological erosion is a natural process in language change. It can lead to a more analytic language structure where grammatical relationships are expressed through word order and function words rather than inflections.*
 
-*The word can refer to the study of the physical shape and structure of organisms or the study of the structure and forms of words in a language.*
+<!-- timestamp=2025-08-24T17:07:30.934+08:00 -->
 
-<!-- timestamp=2025-08-24T17:38:16.912+08:00 -->
+---
+## contour
+
+*/ˈkɒntʊə(r)/*
+
+> 1. An outline, especially one representing or bounding the shape or form of something. 2. A line on a map joining points of equal height above or below sea level. 3. To mold (something) into a specific shape, especially one designed to fit into something else.
+
+**轮廓; 等高线; 使成轮廓**
+
+- The painter carefully sketched the contour of the model's face.
+- 画家仔细地勾勒出模特脸部的轮廓。
+- The contour lines on the map indicated steep slopes.
+- 地图上的等高线表明有陡峭的斜坡。
+- The chairs are contoured to fit the human body for maximum comfort.
+- 这些椅子的轮廓符合人体，以获得最大的舒适度。
+- 椅子被设计成符合人体轮廓，从而提供最大的舒适度。
+
+*Can refer to physical outlines, geographical lines on maps, or the act of shaping something.*
+
+<!-- timestamp=2025-08-23T21:54:22.934+08:00 -->
 
 ---
 ## anomalies
