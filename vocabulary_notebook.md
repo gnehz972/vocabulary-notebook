@@ -1,3 +1,19 @@
+## morphological
+
+*/ˌmɔːrfəˈlɑːdʒɪkəl/*
+
+> Relating to the branch of biology that deals with the form of living organisms, and with relationships between their structures, or relating to the study of the forms of words.
+
+**形态学的；词法学的**
+
+- The morphological analysis of the plant revealed its unique characteristics.
+- 对该植物的形态学分析揭示了其独特的特征。
+
+*The word can refer to the study of the physical shape and structure of organisms or the study of the structure and forms of words in a language.*
+
+<!-- timestamp=2025-08-24T17:38:16.912+08:00 -->
+
+---
 ## anomalies
 
 */əˈnɒməliz/*
