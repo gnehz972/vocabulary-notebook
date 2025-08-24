@@ -1,3 +1,17 @@
+## Morphological Erosion
+
+> In linguistics, morphological erosion refers to the gradual loss or simplification of morphemes (the smallest meaningful units of language) over time, often resulting in a decrease in the complexity of a language's morphology (word structure). It often involves the loss of inflections (changes in word form to indicate grammatical function), prefixes, or suffixes.
+
+**形态侵蚀; 形态退化**
+
+- Over centuries, English has undergone significant morphological erosion, losing many of its original inflections.
+- 几个世纪以来，英语经历了显著的形态侵蚀，失去了许多原有的屈折变化。
+
+*Morphological erosion is a natural process in language change. It can lead to a more analytic language structure where grammatical relationships are expressed through word order and function words rather than inflections.*
+
+<!-- timestamp=2025-08-24T17:07:30.934+08:00 -->
+
+---
 ## contour
 
 */ˈkɒntʊə(r)/*
