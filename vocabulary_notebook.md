@@ -1,3 +1,19 @@
+## Aboriginal
+
+*/ˌæbəˈrɪdʒɪnəl/*
+
+> (of human races, animals, and plants) inhabiting or existing in a land from the earliest times or from before the arrival of colonists; indigenous.
+
+**原住民的；土著的**
+
+- Aboriginal people have a deep connection to the land.
+- 原住民与土地有着深厚的联系。
+
+*Often capitalized when referring to Aboriginal Australians or other specific indigenous populations.*
+
+<!-- timestamp=2025-08-25T09:57:10.657+08:00 -->
+
+---
 ## wineries
 
 */ˈwaɪn(ə)riz/*
