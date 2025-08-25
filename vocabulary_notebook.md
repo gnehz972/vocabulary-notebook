@@ -1,3 +1,19 @@
+## wineries
+
+*/ˈwaɪn(ə)riz/*
+
+> Plural of winery: Establishments where wine is made. These facilities often include vineyards, production areas, tasting rooms, and sometimes restaurants or event spaces.
+
+**葡萄酒庄；酿酒厂（复数）**
+
+- We visited several wineries in Napa Valley during our vacation.
+- 我们假期期间参观了纳帕谷的几家葡萄酒庄。
+
+*Note the plural form indicates multiple wine-producing locations.*
+
+<!-- timestamp=2025-08-25T09:56:46.536+08:00 -->
+
+---
 ## outback
 
 */ˈaʊtbæk/*
