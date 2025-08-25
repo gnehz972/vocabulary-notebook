@@ -1,3 +1,19 @@
+## redact
+
+*/rɪˈdækt/*
+
+> To edit (a text) for publication. To obscure or remove (text) from a document before it is released to the public.
+
+**编辑；修订；遮盖；隐去**
+
+- The government redacted several sensitive paragraphs from the report.
+- 政府从报告中删去了几个敏感段落。
+
+*Redaction is often done to protect privacy, national security, or confidential information.*
+
+<!-- timestamp=2025-08-25T17:47:53.698+08:00 -->
+
+---
 ## Aboriginal
 
 */ˌæbəˈrɪdʒɪnəl/*
