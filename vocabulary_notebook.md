@@ -1,3 +1,19 @@
+## paradigm
+
+*/ˈpærədaɪm/*
+
+> A typical example or pattern of something; a model. A widely accepted set of beliefs, values, and techniques that constitute a common view of reality for a community, especially an intellectual community.
+
+**范例；典范；模式；(尤指学术界的)思潮，范式**
+
+- The company's business model is a paradigm of innovation within the industry.
+- 该公司的商业模式是行业内创新的典范。
+
+*This word can refer to a specific example or a broader framework for understanding something.*
+
+<!-- timestamp=2025-08-26T12:46:00.090+08:00 -->
+
+---
 ## inadvertently
 
 */ˌɪnədˈvɜːrtəntli/*
