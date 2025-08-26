@@ -1,3 +1,19 @@
+## inadvertently
+
+*/ˌɪnədˈvɜːrtəntli/*
+
+> Without intention; unintentionally.
+
+**无意地；不经意地**
+
+- I inadvertently deleted the file.
+- 我不小心删除了文件。
+
+*This word often implies a lack of awareness or attention leading to an accidental action.*
+
+<!-- timestamp=2025-08-26T10:04:52.718+08:00 -->
+
+---
 ## rationale
 
 */ˌræʃəˈnæl/*
