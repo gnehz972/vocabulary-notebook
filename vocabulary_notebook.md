@@ -1,3 +1,19 @@
+## rationale
+
+*/ˌræʃəˈnæl/*
+
+> A set of reasons or a logical basis for a course of action or a particular belief.
+
+**理由；根本原因；基本原理**
+
+- He explained the rationale behind the new policy.
+- 他解释了新政策背后的理由。
+
+*The rationale provides the 'why' behind something, often used in formal contexts such as business decisions or academic arguments.*
+
+<!-- timestamp=2025-08-26T09:38:32.705+08:00 -->
+
+---
 ## redact
 
 */rɪˈdækt/*
