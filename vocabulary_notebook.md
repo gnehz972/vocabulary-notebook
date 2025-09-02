@@ -1,3 +1,19 @@
+## shard
+
+*/ʃɑːrd/*
+
+> A piece of broken ceramic, glass, metal, or rock, typically having sharp edges.
+
+**碎片; (尤指陶瓷、玻璃、金属或岩石的) 碎片**
+
+- Shards of glass littered the floor after the vase broke.
+- 花瓶破碎后，地板上散落着玻璃碎片。
+
+*Often implies a dangerous or sharp fragment resulting from breakage.*
+
+<!-- timestamp=2025-09-02T17:08:11.006+08:00 -->
+
+---
 ## paradigm
 
 */ˈpærədaɪm/*
