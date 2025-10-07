@@ -1,17 +1,129 @@
-## consecutive
+## shard
 
-*/kənˈsekjətɪv/*
+*/ʃɑːrd/*
 
-> Following continuously; in unbroken or logical sequence.
+> A piece of broken ceramic, glass, metal, or rock, typically having sharp edges.
 
-**连续的; 连贯的**
+**碎片; (尤指陶瓷、玻璃、金属或岩石的) 碎片**
 
-- We've had five consecutive days of sunshine.
-- 我们已经连续五天都有阳光了。
+- Shards of glass littered the floor after the vase broke.
+- 花瓶破碎后，地板上散落着玻璃碎片。
 
-*Often used to describe numbers, days, or events occurring in order.*
+*Often implies a dangerous or sharp fragment resulting from breakage.*
 
-<!-- timestamp=2025-10-07T10:21:43.709+08:00 -->
+<!-- timestamp=2025-09-02T17:08:11.006+08:00 -->
+
+---
+## paradigm
+
+*/ˈpærədaɪm/*
+
+> A typical example or pattern of something; a model. A widely accepted set of beliefs, values, and techniques that constitute a common view of reality for a community, especially an intellectual community.
+
+**范例；典范；模式；(尤指学术界的)思潮，范式**
+
+- The company's business model is a paradigm of innovation within the industry.
+- 该公司的商业模式是行业内创新的典范。
+
+*This word can refer to a specific example or a broader framework for understanding something.*
+
+<!-- timestamp=2025-08-26T12:46:00.090+08:00 -->
+
+---
+## inadvertently
+
+*/ˌɪnədˈvɜːrtəntli/*
+
+> Without intention; unintentionally.
+
+**无意地；不经意地**
+
+- I inadvertently deleted the file.
+- 我不小心删除了文件。
+
+*This word often implies a lack of awareness or attention leading to an accidental action.*
+
+<!-- timestamp=2025-08-26T10:04:52.718+08:00 -->
+
+---
+## rationale
+
+*/ˌræʃəˈnæl/*
+
+> A set of reasons or a logical basis for a course of action or a particular belief.
+
+**理由；根本原因；基本原理**
+
+- He explained the rationale behind the new policy.
+- 他解释了新政策背后的理由。
+
+*The rationale provides the 'why' behind something, often used in formal contexts such as business decisions or academic arguments.*
+
+<!-- timestamp=2025-08-26T09:38:32.705+08:00 -->
+
+---
+## redact
+
+*/rɪˈdækt/*
+
+> To edit (a text) for publication. To obscure or remove (text) from a document before it is released to the public.
+
+**编辑；修订；遮盖；隐去**
+
+- The government redacted several sensitive paragraphs from the report.
+- 政府从报告中删去了几个敏感段落。
+
+*Redaction is often done to protect privacy, national security, or confidential information.*
+
+<!-- timestamp=2025-08-25T17:47:53.698+08:00 -->
+
+---
+## Aboriginal
+
+*/ˌæbəˈrɪdʒɪnəl/*
+
+> (of human races, animals, and plants) inhabiting or existing in a land from the earliest times or from before the arrival of colonists; indigenous.
+
+**原住民的；土著的**
+
+- Aboriginal people have a deep connection to the land.
+- 原住民与土地有着深厚的联系。
+
+*Often capitalized when referring to Aboriginal Australians or other specific indigenous populations.*
+
+<!-- timestamp=2025-08-25T09:57:10.657+08:00 -->
+
+---
+## wineries
+
+*/ˈwaɪn(ə)riz/*
+
+> Plural of winery: Establishments where wine is made. These facilities often include vineyards, production areas, tasting rooms, and sometimes restaurants or event spaces.
+
+**葡萄酒庄；酿酒厂（复数）**
+
+- We visited several wineries in Napa Valley during our vacation.
+- 我们假期期间参观了纳帕谷的几家葡萄酒庄。
+
+*Note the plural form indicates multiple wine-producing locations.*
+
+<!-- timestamp=2025-08-25T09:56:46.536+08:00 -->
+
+---
+## outback
+
+*/ˈaʊtbæk/*
+
+> The remote and sparsely populated inland areas of Australia.
+
+**澳大利亚内陆地区**
+
+- We drove for days through the vast Australian outback.
+- 我们在广袤的澳大利亚内陆地区开了好几天车。
+
+*The term often implies a harsh and isolated environment.*
+
+<!-- timestamp=2025-08-25T09:55:35.724+08:00 -->
 
 ---
 ## morphological
