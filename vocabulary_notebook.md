@@ -1,3 +1,19 @@
+## consecutive
+
+*/kənˈsekjətɪv/*
+
+> Following continuously; in unbroken or logical sequence.
+
+**连续的; 连贯的**
+
+- We've had five consecutive days of sunshine.
+- 我们已经连续五天都有阳光了。
+
+*Often used to describe numbers, days, or events occurring in order.*
+
+<!-- timestamp=2025-10-07T10:21:43.709+08:00 -->
+
+---
 ## shard
 
 */ʃɑːrd/*
