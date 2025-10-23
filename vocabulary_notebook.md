@@ -1,3 +1,19 @@
+## proximity
+
+*/prɒkˈsɪməti/*
+
+> Nearness in space, time, or relationship.
+
+**接近；邻近；临近**
+
+- The proximity of the school to our house is a big advantage.
+- 学校离我们家很近是一个很大的优势。
+
+*Often used to describe the closeness of two or more things, whether physical or abstract.*
+
+<!-- timestamp=2025-10-23T09:54:22.515+08:00 -->
+
+---
 ## consecutive
 
 */kənˈsekjətɪv/*
