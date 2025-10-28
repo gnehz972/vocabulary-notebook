@@ -1,3 +1,19 @@
+## nurture
+
+*/ˈnɜːrtʃər/*
+
+> To care for and protect (someone or something) while they are growing.
+
+**培育；养育**
+
+- Parents nurture their children by providing love, support, and education.
+- 父母通过提供爱、支持和教育来养育他们的孩子。
+
+*Nurture often implies providing the necessary conditions for growth and development, not just basic survival.*
+
+<!-- timestamp=2025-10-28T11:28:24.447+08:00 -->
+
+---
 ## acronyms
 
 */ˈækrənɪmz/*
