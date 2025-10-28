@@ -1,3 +1,19 @@
+## acronyms
+
+*/ˈækrənɪmz/*
+
+> Abbreviations formed from the initial letters of other words and pronounced as a word (e.g., NASA, NATO).
+
+**首字母缩略词；缩写词**
+
+- NASA and NATO are well-known examples of acronyms.
+- NASA 和 NATO 是首字母缩略词的著名例子。
+
+*An acronym is distinct from an initialism, which is also formed from initial letters but is pronounced letter by letter (e.g., FBI).*
+
+<!-- timestamp=2025-10-28T10:34:56.015+08:00 -->
+
+---
 ## proximity
 
 */prɒkˈsɪməti/*
