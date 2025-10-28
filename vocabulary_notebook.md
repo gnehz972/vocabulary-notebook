@@ -1,3 +1,19 @@
+## auction
+
+*/ˈɔːkʃən/*
+
+> A public sale in which goods or property are sold to the highest bidder.
+
+**拍卖**
+
+- The painting was sold at auction for a record price.
+- 这幅画在拍卖会上以创纪录的价格售出。
+
+*Auctions can be conducted live, online, or through sealed bids.*
+
+<!-- timestamp=2025-10-28T12:14:22.526+08:00 -->
+
+---
 ## nurture
 
 */ˈnɜːrtʃər/*
