@@ -1,3 +1,19 @@
+## convening
+
+*/kənˈviːnɪŋ/*
+
+> Coming together for a meeting or activity; assembling. To call together for a meeting or assembly.
+
+**召集；集合**
+
+- The president is convening a meeting of his advisors.
+- 总统正在召集他的顾问们开会。
+
+*Often implies a formal or official purpose for the gathering.*
+
+<!-- timestamp=2025-10-31T09:32:39.056+08:00 -->
+
+---
 ## auction
 
 */ˈɔːkʃən/*
