@@ -1,3 +1,19 @@
+## triage
+
+*/ˈtriːɑːʒ/*
+
+> The process of determining the priority of patients' treatments based on the severity of their condition.
+
+**（医疗）分类；伤病员检伤分类**
+
+- During the mass casualty event, medical personnel performed triage to identify and treat the most critically injured patients first.
+- 在大规模伤亡事件中，医务人员进行了伤病员检伤分类，以确定并首先治疗伤势最严重的患者。
+
+*Triage is often used in emergency situations, like natural disasters or mass casualty events, to efficiently allocate resources.*
+
+<!-- timestamp=2025-11-06T11:45:46.080+08:00 -->
+
+---
 ## convening
 
 */kənˈviːnɪŋ/*
