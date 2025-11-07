@@ -1,3 +1,19 @@
+## welfare
+
+*/ˈwelfeər/*
+
+> The health, happiness, and fortunes of a person or group.
+
+**福利；幸福；安康**
+
+- The government is concerned about the welfare of its citizens.
+- 政府关心其公民的福祉。
+
+*Welfare can refer to a general state of well-being or, more specifically, to government-provided assistance for those in need.*
+
+<!-- timestamp=2025-11-07T14:47:31.518+08:00 -->
+
+---
 ## statutory
 
 */ˈstætʃətɔːri/*
