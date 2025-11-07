@@ -1,3 +1,19 @@
+## statutory
+
+*/ˈstætʃətɔːri/*
+
+> Required, permitted, or enacted by statute.
+
+**法定的；法令规定的**
+
+- The company is required to maintain statutory accounts.
+- 公司需要维护法定的账目。
+
+*Relates to something governed or defined by a formal law or statute.*
+
+<!-- timestamp=2025-11-07T14:47:17.445+08:00 -->
+
+---
 ## triage
 
 */ˈtriːɑːʒ/*
