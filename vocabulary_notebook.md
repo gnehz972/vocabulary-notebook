@@ -1,3 +1,19 @@
+## dwellings
+
+*/ˈdwɛlɪŋz/*
+
+> Plural of dwelling: A house, apartment, or other shelter in which people live.
+
+**住宅；住所 (dwelling 的复数形式)**
+
+- Many historical dwellings have been preserved in the old town.
+- 老城区保存了很多历史住宅。
+
+*This word is more formal than "houses" and often used in official or historical contexts.*
+
+<!-- timestamp=2025-11-21T14:51:58.689+08:00 -->
+
+---
 ## lots
 
 */lɒts/*
