@@ -1,3 +1,19 @@
+## lots
+
+*/lɒts/*
+
+> 1. A large amount or number of something. 2. An item or set of items for sale at an auction. 3. A plot of land.
+
+**许多；大量；拍卖品；地皮**
+
+- There were lots of people at the concert.
+- 音乐会上有很多观众。
+
+*The meaning of "lots" varies depending on the context. Pay attention to the surrounding words to determine the intended meaning.*
+
+<!-- timestamp=2025-11-21T14:51:34.683+08:00 -->
+
+---
 ## welfare
 
 */ˈwelfeər/*
