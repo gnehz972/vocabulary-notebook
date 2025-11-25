@@ -1,3 +1,23 @@
+## guild
+
+*/ɡɪld/*
+
+> 1. A medieval association of craftsmen or merchants, often having considerable power.
+> 2. An association of people with similar interests or pursuits.
+
+**行会；协会**
+
+- The carpenter's guild controlled the trade in the city.
+- 木匠行会控制着城市里的木工贸易。
+
+- The actors formed a guild to protect their rights.
+- 演员们成立了一个协会来保护他们的权益。
+
+*The word "guild" often carries connotations of tradition and professional standards, especially when referring to historical contexts.*
+
+<!-- timestamp=2025-11-25T09:26:30.508+08:00 -->
+
+---
 ## dwellings
 
 */ˈdwɛlɪŋz/*
