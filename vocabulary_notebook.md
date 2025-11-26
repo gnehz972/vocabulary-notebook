@@ -2,22 +2,22 @@
 
 */ˈekwɪti/*
 
-> 1. The quality of being fair and impartial. 2. The value of the shares issued by a company. 3. The value of an ownership interest in property, especially in a business.
+> 1. The quality of being fair and impartial. 2. The value of the shares issued by a company. 3. The value of a mortgaged property after deduction of charges against it.
 
 **公平; 公正; 股票; 资产净值**
 
-- The legal system aims to ensure equity for all citizens.
-- 法律系统旨在确保所有公民的公平。
+- The judge emphasized equity in the distribution of resources.
+- 法官强调了资源分配的公平性。
 
 - The company's equity has increased significantly this year.
-- 公司的股票价值今年显著增长。
+- 该公司的股权今年大幅增长。
 
-- They have a large amount of equity in their house.
-- 他们在他们的房子里拥有大量的资产净值。
+- They used the equity in their home to finance the new business.
+- 他们用房屋的资产净值来为新业务融资。
 
-*Equity in the sense of fairness is often contrasted with 'equality'. Equity may involve treating people differently to achieve a fair outcome, while equality means treating everyone the same.*
+*The first definition focuses on fairness and justice. The second and third definitions relate to finance and represent ownership value.*
 
-<!-- timestamp=2025-11-26T15:53:24.231+08:00 -->
+<!-- timestamp=2025-11-26T15:53:44.870+08:00 -->
 
 ---
 ## guild
