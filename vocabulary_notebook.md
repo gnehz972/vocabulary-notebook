@@ -1,3 +1,19 @@
+## intangible
+
+*/ɪnˈtændʒɪbəl/*
+
+> Unable to be touched or grasped; not having physical presence.
+
+**无形的；难以捉摸的**
+
+- The benefits of a good reputation are intangible but valuable.
+- 良好声誉的好处是无形的，但却很有价值。
+
+*Often refers to abstract concepts like goodwill, reputation, or feelings.*
+
+<!-- timestamp=2025-11-26T15:57:15.859+08:00 -->
+
+---
 ## inventories
 
 */ˈɪnvəntɔːriz/*
