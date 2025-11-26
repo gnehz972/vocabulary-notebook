@@ -1,3 +1,23 @@
+## inventories
+
+*/ˈɪnvəntɔːriz/*
+
+> 1. A complete list of items such as property, goods in stock, or the contents of a building.
+> 2. The quantity of goods that a firm has on hand.
+
+**中文翻译：**
+
+- 1. 财产清单；存货清单；详细目录
+- 2. （企业的）库存；库存量
+
+- The store is having a sale to clear out old inventories.
+- 商店正在打折出售，以清理旧库存。
+
+*The word "inventories" is often used in a business or accounting context to refer to goods held for sale.*
+
+<!-- timestamp=2025-11-26T15:55:33.906+08:00 -->
+
+---
 ## equity
 
 */ˈekwɪti/*
