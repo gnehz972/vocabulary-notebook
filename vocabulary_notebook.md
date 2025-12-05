@@ -1,28 +1,399 @@
-## nuanced + cognitive
+## intangible
 
-- Understanding the nuances of his argument requires a strong cognitive grasp of the subject.
+*/ɪnˈtændʒɪbəl/*
 
-- 理解他论证的细微之处需要对该主题有很强的认知能力。
+> Unable to be touched or grasped; not having physical presence.
 
-<!-- timestamp=2025-12-05T22:36:20.381+08:00 -->
+**无形的；难以捉摸的**
 
----
-## tenancy + guardrails
+- The benefits of a good reputation are intangible but valuable.
+- 良好声誉的好处是无形的，但却很有价值。
 
-- The landlord installed new guardrails to ensure the safety of all tenancy occupants.
+*Often refers to abstract concepts like goodwill, reputation, or feelings.*
 
-- 房东安装了新的护栏，以确保所有租户的安全。
-
-<!-- timestamp=2025-12-03T17:49:23.334+08:00 -->
+<!-- timestamp=2025-11-26T15:57:15.859+08:00 -->
 
 ---
-## exacerbating + anomalies
+## inventories
 
-- Ignoring the system's anomalies is only exacerbating the risk of a major failure.
+*/ˈɪnvəntɔːriz/*
 
-- 忽视系统的异常只会加剧发生重大故障的风险。
+> 1. A complete list of items such as property, goods in stock, or the contents of a building.
+> 2. The quantity of goods that a firm has on hand.
 
-<!-- timestamp=2025-12-03T16:29:59.091+08:00 -->
+**中文翻译：**
+
+- 1. 财产清单；存货清单；详细目录
+- 2. （企业的）库存；库存量
+
+- The store is having a sale to clear out old inventories.
+- 商店正在打折出售，以清理旧库存。
+
+*The word "inventories" is often used in a business or accounting context to refer to goods held for sale.*
+
+<!-- timestamp=2025-11-26T15:55:33.906+08:00 -->
+
+---
+## equity
+
+*/ˈekwɪti/*
+
+> 1. The quality of being fair and impartial. 2. The value of the shares issued by a company. 3. The value of a mortgaged property after deduction of charges against it.
+
+**公平; 公正; 股票; 资产净值**
+
+- The judge emphasized equity in the distribution of resources.
+- 法官强调了资源分配的公平性。
+
+- The company's equity has increased significantly this year.
+- 该公司的股权今年大幅增长。
+
+- They used the equity in their home to finance the new business.
+- 他们用房屋的资产净值来为新业务融资。
+
+*The first definition focuses on fairness and justice. The second and third definitions relate to finance and represent ownership value.*
+
+<!-- timestamp=2025-11-26T15:53:44.870+08:00 -->
+
+---
+## guild
+
+*/ɡɪld/*
+
+> 1. A medieval association of craftsmen or merchants, often having considerable power.
+> 2. An association of people with similar interests or pursuits.
+
+**行会；协会**
+
+- The carpenter's guild controlled the trade in the city.
+- 木匠行会控制着城市里的木工贸易。
+
+- The actors formed a guild to protect their rights.
+- 演员们成立了一个协会来保护他们的权益。
+
+*The word "guild" often carries connotations of tradition and professional standards, especially when referring to historical contexts.*
+
+<!-- timestamp=2025-11-25T09:26:30.508+08:00 -->
+
+---
+## dwellings
+
+*/ˈdwɛlɪŋz/*
+
+> Plural of dwelling: A house, apartment, or other shelter in which people live.
+
+**住宅；住所 (dwelling 的复数形式)**
+
+- Many historical dwellings have been preserved in the old town.
+- 老城区保存了很多历史住宅。
+
+*This word is more formal than "houses" and often used in official or historical contexts.*
+
+<!-- timestamp=2025-11-21T14:51:58.689+08:00 -->
+
+---
+## lots
+
+*/lɒts/*
+
+> 1. A large amount or number of something. 2. An item or set of items for sale at an auction. 3. A plot of land.
+
+**许多；大量；拍卖品；地皮**
+
+- There were lots of people at the concert.
+- 音乐会上有很多观众。
+
+*The meaning of "lots" varies depending on the context. Pay attention to the surrounding words to determine the intended meaning.*
+
+<!-- timestamp=2025-11-21T14:51:34.683+08:00 -->
+
+---
+## welfare
+
+*/ˈwelfeər/*
+
+> The health, happiness, and fortunes of a person or group.
+
+**福利；幸福；安康**
+
+- The government is concerned about the welfare of its citizens.
+- 政府关心其公民的福祉。
+
+*Welfare can refer to a general state of well-being or, more specifically, to government-provided assistance for those in need.*
+
+<!-- timestamp=2025-11-07T14:47:31.518+08:00 -->
+
+---
+## statutory
+
+*/ˈstætʃətɔːri/*
+
+> Required, permitted, or enacted by statute.
+
+**法定的；法令规定的**
+
+- The company is required to maintain statutory accounts.
+- 公司需要维护法定的账目。
+
+*Relates to something governed or defined by a formal law or statute.*
+
+<!-- timestamp=2025-11-07T14:47:17.445+08:00 -->
+
+---
+## triage
+
+*/ˈtriːɑːʒ/*
+
+> The process of determining the priority of patients' treatments based on the severity of their condition.
+
+**（医疗）分类；伤病员检伤分类**
+
+- During the mass casualty event, medical personnel performed triage to identify and treat the most critically injured patients first.
+- 在大规模伤亡事件中，医务人员进行了伤病员检伤分类，以确定并首先治疗伤势最严重的患者。
+
+*Triage is often used in emergency situations, like natural disasters or mass casualty events, to efficiently allocate resources.*
+
+<!-- timestamp=2025-11-06T11:45:46.080+08:00 -->
+
+---
+## convening
+
+*/kənˈviːnɪŋ/*
+
+> Coming together for a meeting or activity; assembling. To call together for a meeting or assembly.
+
+**召集；集合**
+
+- The president is convening a meeting of his advisors.
+- 总统正在召集他的顾问们开会。
+
+*Often implies a formal or official purpose for the gathering.*
+
+<!-- timestamp=2025-10-31T09:32:39.056+08:00 -->
+
+---
+## auction
+
+*/ˈɔːkʃən/*
+
+> A public sale in which goods or property are sold to the highest bidder.
+
+**拍卖**
+
+- The painting was sold at auction for a record price.
+- 这幅画在拍卖会上以创纪录的价格售出。
+
+*Auctions can be conducted live, online, or through sealed bids.*
+
+<!-- timestamp=2025-10-28T12:14:22.526+08:00 -->
+
+---
+## nurture
+
+*/ˈnɜːrtʃər/*
+
+> To care for and protect (someone or something) while they are growing.
+
+**培育；养育**
+
+- Parents nurture their children by providing love, support, and education.
+- 父母通过提供爱、支持和教育来养育他们的孩子。
+
+*Nurture often implies providing the necessary conditions for growth and development, not just basic survival.*
+
+<!-- timestamp=2025-10-28T11:28:24.447+08:00 -->
+
+---
+## acronyms
+
+*/ˈækrənɪmz/*
+
+> Abbreviations formed from the initial letters of other words and pronounced as a word (e.g., NASA, NATO).
+
+**首字母缩略词；缩写词**
+
+- NASA and NATO are well-known examples of acronyms.
+- NASA 和 NATO 是首字母缩略词的著名例子。
+
+*An acronym is distinct from an initialism, which is also formed from initial letters but is pronounced letter by letter (e.g., FBI).*
+
+<!-- timestamp=2025-10-28T10:34:56.015+08:00 -->
+
+---
+## proximity
+
+*/prɒkˈsɪməti/*
+
+> Nearness in space, time, or relationship.
+
+**接近；邻近；临近**
+
+- The proximity of the school to our house is a big advantage.
+- 学校离我们家很近是一个很大的优势。
+
+*Often used to describe the closeness of two or more things, whether physical or abstract.*
+
+<!-- timestamp=2025-10-23T09:54:22.515+08:00 -->
+
+---
+## consecutive
+
+*/kənˈsekjətɪv/*
+
+> Following continuously; in unbroken or logical sequence.
+
+**连续的; 连贯的**
+
+- We've had five consecutive days of sunshine.
+- 我们已经连续五天都有阳光了。
+
+*Often used to describe numbers, days, or events occurring in order.*
+
+<!-- timestamp=2025-10-07T10:21:43.709+08:00 -->
+
+---
+## shard
+
+*/ʃɑːrd/*
+
+> A piece of broken ceramic, glass, metal, or rock, typically having sharp edges.
+
+**碎片; (尤指陶瓷、玻璃、金属或岩石的) 碎片**
+
+- Shards of glass littered the floor after the vase broke.
+- 花瓶破碎后，地板上散落着玻璃碎片。
+
+*Often implies a dangerous or sharp fragment resulting from breakage.*
+
+<!-- timestamp=2025-09-02T17:08:11.006+08:00 -->
+
+---
+## paradigm
+
+*/ˈpærədaɪm/*
+
+> A typical example or pattern of something; a model. A widely accepted set of beliefs, values, and techniques that constitute a common view of reality for a community, especially an intellectual community.
+
+**范例；典范；模式；(尤指学术界的)思潮，范式**
+
+- The company's business model is a paradigm of innovation within the industry.
+- 该公司的商业模式是行业内创新的典范。
+
+*This word can refer to a specific example or a broader framework for understanding something.*
+
+<!-- timestamp=2025-08-26T12:46:00.090+08:00 -->
+
+---
+## inadvertently
+
+*/ˌɪnədˈvɜːrtəntli/*
+
+> Without intention; unintentionally.
+
+**无意地；不经意地**
+
+- I inadvertently deleted the file.
+- 我不小心删除了文件。
+
+*This word often implies a lack of awareness or attention leading to an accidental action.*
+
+<!-- timestamp=2025-08-26T10:04:52.718+08:00 -->
+
+---
+## rationale
+
+*/ˌræʃəˈnæl/*
+
+> A set of reasons or a logical basis for a course of action or a particular belief.
+
+**理由；根本原因；基本原理**
+
+- He explained the rationale behind the new policy.
+- 他解释了新政策背后的理由。
+
+*The rationale provides the 'why' behind something, often used in formal contexts such as business decisions or academic arguments.*
+
+<!-- timestamp=2025-08-26T09:38:32.705+08:00 -->
+
+---
+## redact
+
+*/rɪˈdækt/*
+
+> To edit (a text) for publication. To obscure or remove (text) from a document before it is released to the public.
+
+**编辑；修订；遮盖；隐去**
+
+- The government redacted several sensitive paragraphs from the report.
+- 政府从报告中删去了几个敏感段落。
+
+*Redaction is often done to protect privacy, national security, or confidential information.*
+
+<!-- timestamp=2025-08-25T17:47:53.698+08:00 -->
+
+---
+## Aboriginal
+
+*/ˌæbəˈrɪdʒɪnəl/*
+
+> (of human races, animals, and plants) inhabiting or existing in a land from the earliest times or from before the arrival of colonists; indigenous.
+
+**原住民的；土著的**
+
+- Aboriginal people have a deep connection to the land.
+- 原住民与土地有着深厚的联系。
+
+*Often capitalized when referring to Aboriginal Australians or other specific indigenous populations.*
+
+<!-- timestamp=2025-08-25T09:57:10.657+08:00 -->
+
+---
+## wineries
+
+*/ˈwaɪn(ə)riz/*
+
+> Plural of winery: Establishments where wine is made. These facilities often include vineyards, production areas, tasting rooms, and sometimes restaurants or event spaces.
+
+**葡萄酒庄；酿酒厂（复数）**
+
+- We visited several wineries in Napa Valley during our vacation.
+- 我们假期期间参观了纳帕谷的几家葡萄酒庄。
+
+*Note the plural form indicates multiple wine-producing locations.*
+
+<!-- timestamp=2025-08-25T09:56:46.536+08:00 -->
+
+---
+## outback
+
+*/ˈaʊtbæk/*
+
+> The remote and sparsely populated inland areas of Australia.
+
+**澳大利亚内陆地区**
+
+- We drove for days through the vast Australian outback.
+- 我们在广袤的澳大利亚内陆地区开了好几天车。
+
+*The term often implies a harsh and isolated environment.*
+
+<!-- timestamp=2025-08-25T09:55:35.724+08:00 -->
+
+---
+## morphological
+
+*/ˌmɔːrfəˈlɑːdʒɪkəl/*
+
+> Relating to the branch of biology that deals with the form of living organisms, and with relationships between their structures, or relating to the study of the forms of words.
+
+**形态学的；词法学的**
+
+- The morphological analysis of the plant revealed its unique characteristics.
+- 对该植物的形态学分析揭示了其独特的特征。
+
+*The word can refer to the study of the physical shape and structure of organisms or the study of the structure and forms of words in a language.*
+
+<!-- timestamp=2025-08-24T17:38:16.912+08:00 -->
 
 ---
 ## Morphological Erosion
