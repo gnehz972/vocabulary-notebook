@@ -1,3 +1,30 @@
+## nuanced + cognitive
+
+- Understanding the nuances of his argument requires a strong cognitive grasp of the subject.
+
+- 理解他论证的细微之处需要对该主题有很强的认知能力。
+
+<!-- timestamp=2025-12-05T22:36:20.381+08:00 -->
+
+---
+## tenancy + guardrails
+
+- The landlord installed new guardrails to ensure the safety of all tenancy occupants.
+
+- 房东安装了新的护栏，以确保所有租户的安全。
+
+<!-- timestamp=2025-12-03T17:49:23.334+08:00 -->
+
+---
+## exacerbating + anomalies
+
+- Ignoring the system's anomalies is only exacerbating the risk of a major failure.
+
+- 忽视系统的异常只会加剧发生重大故障的风险。
+
+<!-- timestamp=2025-12-03T16:29:59.091+08:00 -->
+
+---
 ## Morphological Erosion
 
 > In linguistics, morphological erosion refers to the gradual loss or simplification of morphemes (the smallest meaningful units of language) over time, often resulting in a decrease in the complexity of a language's morphology (word structure). It often involves the loss of inflections (changes in word form to indicate grammatical function), prefixes, or suffixes.
