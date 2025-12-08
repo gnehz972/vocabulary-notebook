@@ -1,3 +1,19 @@
+## ephemeral
+
+*/ɪˈfɛmərəl/*
+
+> Lasting for a very short time; transient.
+
+**短暂的；瞬息的**
+
+- The beauty of the sunset was ephemeral.
+- 日落的美丽是短暂的。
+
+*Used to describe things that are fleeting, such as moments, feelings, or appearances.*
+
+<!-- timestamp=2025-12-08T22:07:51.531+08:00 -->
+
+---
 ## exacerbating + anomalies
 
 - Ignoring the system's anomalies is only exacerbating the risk of a major failure.
