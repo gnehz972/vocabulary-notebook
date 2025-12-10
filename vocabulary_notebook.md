@@ -1,3 +1,21 @@
+## accommodate
+
+*/əˈkɒmədeɪt/*
+
+> To provide space or facilities for someone or something; to adjust to a situation or condition.
+
+**容纳；适应**
+
+- The hotel can accommodate up to 200 guests.
+- 这家酒店最多可以容纳200位客人。
+
+*Note: The correct spelling is "accommodate" (with two 'm's and two 'd's). It is often misspelled as "accomodate."*
+
+*Usage tip: Commonly used in contexts related to housing, seating, or adjusting to new conditions.*
+
+<!-- timestamp=2025-12-10T09:19:40.220+08:00 -->
+
+---
 ## ephemeral
 
 */ɪˈfɛmərəl/*
