@@ -1,3 +1,19 @@
+## infographic
+
+*/ˌɪnfoʊˈɡræfɪk/*
+
+> A visual representation of information or data, presented in a clear and concise way, often using charts, graphs, text, and images, to make complex information easily understandable.
+
+**信息图；图示信息**
+
+- The infographic made the complicated statistics much easier to grasp.
+- 这张信息图让复杂的统计数据更容易理解。
+
+*Often used in journalism, marketing, and education to explain concepts or data visually.*
+
+<!-- timestamp=2025-12-16T15:55:48.934+08:00 -->
+
+---
 ## accommodate
 
 */əˈkɒmədeɪt/*
