@@ -1,3 +1,19 @@
+## perceptron
+
+*/ˈpɜːrsɛptrɒn/*
+
+> In machine learning, a type of artificial neural network algorithm for supervised learning of binary classifiers, representing the simplest feedforward neural network.
+
+**感知器**
+
+- The perceptron was one of the earliest algorithms developed for training a single-layer neural network.
+- 感知器是为训练单层神经网络而开发的最早算法之一。
+
+*This term is highly specific to the field of artificial intelligence and machine learning, referring to a foundational algorithm.*
+
+<!-- timestamp=2025-12-17T10:48:53.598+08:00 -->
+
+---
 ## infographic
 
 */ˌɪnfoʊˈɡræfɪk/*
