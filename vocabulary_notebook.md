@@ -1,3 +1,19 @@
+## custodianship
+
+*/kʌˈstoʊdiənʃɪp/*
+
+> The state of being a custodian; the act of supervising or taking care of something, especially with a duty to protect or preserve it.
+
+**监护；保管；管理权**
+
+- The university assumed custodianship of the rare manuscript collection.
+- 大学承担了这批珍贵手稿的保管权。
+
+*Often implies a formal or legal responsibility for the protection and maintenance of valuable items, property, or even an idea or tradition.*
+
+<!-- timestamp=2025-12-18T10:30:57.571+08:00 -->
+
+---
 ## perceptron
 
 */ˈpɜːrsɛptrɒn/*
