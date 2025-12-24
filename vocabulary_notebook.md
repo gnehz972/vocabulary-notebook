@@ -1,3 +1,19 @@
+## holistically
+
+*/həʊˈlɪstɪkli/*
+
+> In a way that considers the complete system or complex rather than just individual parts; treating the whole of something or someone, not just the parts.
+
+**整体地；全面地；全盘地**
+
+- The company decided to examine its operations holistically to identify areas for improvement.
+- 公司决定全面审视其运营，以找出需要改进的领域。
+
+*Often used when advocating for a comprehensive, integrated perspective, especially in fields like health, education, or problem-solving.*
+
+<!-- timestamp=2025-12-24T09:47:36.798+08:00 -->
+
+---
 ## custodianship
 
 */kʌˈstoʊdiənʃɪp/*
