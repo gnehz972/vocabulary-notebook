@@ -1,3 +1,19 @@
+## succinct
+
+*/səkˈsɪŋkt/*
+
+> (Especially of something written or spoken) expressed clearly and without wasted words; brief and to the point.
+
+**简洁的；简明的**
+
+- Her email was succinct, getting straight to the point without any unnecessary details.
+- 她的邮件很简洁，开门见山，没有多余的细节。
+
+*Often used to praise communication that is both brief and effective, emphasizing clarity and precision.*
+
+<!-- timestamp=2025-12-25T21:47:06.335+08:00 -->
+
+---
 ## predates
 
 */ˌpriːˈdeɪts/*
