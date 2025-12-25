@@ -1,3 +1,21 @@
+## chameleon
+
+*/kəˈmiːliən/*
+
+> A type of lizard known for its ability to change color to blend with its surroundings. Figuratively, a person who changes their opinions or behavior often to suit new situations or people.
+
+**变色龙；善变的人**
+
+- The chameleon perfectly camouflaged itself against the bark of the tree.
+- 那只变色龙完美地把自己伪装在树皮上。
+- He's a political chameleon, always adapting his views to whatever is popular at the moment.
+- 他是个政治变色龙，总是根据时下流行什么来调整自己的观点。
+
+*Used both literally for the lizard and figuratively for people who are seen as highly adaptable, often with a connotation of being insincere or opportunistic.*
+
+<!-- timestamp=2025-12-25T10:17:32.407+08:00 -->
+
+---
 ## holistically
 
 */həʊˈlɪstɪkli/*
