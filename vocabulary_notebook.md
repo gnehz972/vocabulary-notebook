@@ -1,3 +1,19 @@
+## predates
+
+*/ˌpriːˈdeɪts/*
+
+> To exist or occur at an earlier date than something else.
+
+**早于...存在/发生；先于...而有**
+
+- This ancient civilization predates the commonly accepted timeline for the region.
+- 这个古老文明的存在早于该地区普遍接受的时间线。
+
+*This verb is typically used to indicate that one thing came into existence or occurred before another, often in a historical, archaeological, or scientific context.*
+
+<!-- timestamp=2025-12-25T11:45:32.879+08:00 -->
+
+---
 ## chameleon
 
 */kəˈmiːliən/*
