@@ -1,3 +1,19 @@
+## fluctuating
+
+*/ˈflʌktʃueɪtɪŋ/*
+
+> Rising and falling irregularly in number or amount; continually changing.
+
+**波动起伏的；不稳定的；变动的**
+
+- The patient's fluctuating temperature concerned the doctors.
+- 病人波动的体温让医生们很担心。
+
+*Often used to describe things that are not constant or steady, such as prices, temperatures, moods, or levels.*
+
+<!-- timestamp=2025-12-25T21:51:02.647+08:00 -->
+
+---
 ## succinct
 
 */səkˈsɪŋkt/*
