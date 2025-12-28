@@ -1,3 +1,19 @@
+## wimps
+
+*/wɪmps/*
+
+> Plural of 'wimp': People who are weak, easily frightened, and lack courage or assertiveness.
+
+**懦夫；胆小鬼；软弱无力的人**
+
+- The coach told his team not to be wimps and to fight for every point.
+- 教练告诉他的队伍不要当懦夫，要为每一分而战。
+
+*This term is informal and often used derisively, implying a lack of strength or courage.*
+
+<!-- timestamp=2025-12-28T22:17:33.055+08:00 -->
+
+---
 ## fluctuating
 
 */ˈflʌktʃueɪtɪŋ/*
