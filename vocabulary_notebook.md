@@ -1,3 +1,24 @@
+## swag
+
+*/swæɡ/*
+
+> A collection of free gifts or items given to attendees at an event, often branded with the event's logo or theme.
+
+**赠品；纪念品**
+
+- The concert had a great swag bag with branded t-shirts and hats.
+- 这场音乐会有一个很棒的赠品包，里面有印有活动标志的T恤和帽子。
+
+*Commonly used in the context of events, conventions, or online communities to refer to promotional items or merchandise.*
+
+- You can usually get swag at the entrance of the event.
+- 你通常可以在活动入口处拿到赠品。
+
+*Swag can also be used informally to mean something that is cool or impressive, especially in internet or gaming culture.*
+
+<!-- timestamp=2026-01-06T14:19:56.257+08:00 -->
+
+---
 ## wimps
 
 */wɪmps/*
