@@ -1,3 +1,19 @@
+## modder
+
+*/ˈmɒdər/*
+
+> A person who modifies or customizes video games, software, or hardware, often to enhance functionality, appearance, or gameplay.
+
+**模组制作者；改装者**
+
+- He's a skilled modder who creates custom skins for his favorite game.
+- 他是一名技艺娴熟的模组制作者，擅长为他喜欢的游戏制作自定义皮肤。
+
+*Commonly used in gaming communities to refer to those who create or apply modifications (mods).*
+
+<!-- timestamp=2026-01-06T14:52:48.405+08:00 -->
+
+---
 ## swag
 
 */swæɡ/*
