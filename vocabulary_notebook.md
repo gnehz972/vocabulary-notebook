@@ -1,3 +1,21 @@
+## amber
+
+*/ˈæm.bər/*
+
+> A yellow to orange-brown fossilized tree resin, often used in jewelry; also refers to the color itself.
+
+**琥珀；琥珀色**
+
+- The necklace was made from polished amber beads.
+- 这条项链由打磨过的琥珀珠子制成。
+
+*Amber is prized for its warm, translucent appearance and is sometimes believed to have healing properties in traditional cultures.*
+
+*Note: The word can refer both to the gemstone and the color, which is commonly associated with autumn or sunlight.*
+
+<!-- timestamp=2026-01-15T09:24:47.936+08:00 -->
+
+---
 ## modder
 
 */ˈmɒdər/*
