@@ -1,3 +1,19 @@
+## arvo
+
+*/ˈɑːrvəʊ/*
+
+> A term used in Australian English to refer to the afternoon, especially in informal or colloquial contexts. It is often used in expressions like "arvo off" (afternoon off) or "arvo tea" (tea in the afternoon).
+
+**下午；午后**
+
+- I’m heading out for a quick walk this arvo.
+- 我今天下午要出去快走一下。
+
+*Commonly used in casual Australian speech; not standard in formal English.*
+
+<!-- timestamp=2026-02-05T10:41:39.863+08:00 -->
+
+---
 ## amber
 
 */ˈæm.bər/*
