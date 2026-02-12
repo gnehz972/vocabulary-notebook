@@ -1,3 +1,19 @@
+## confided
+
+*/kənˈfaɪd/*
+
+> To share a secret or personal information with someone, usually in confidence.
+
+**吐露；倾诉**
+
+- She confided in her best friend about her fears.
+- 她向她最好的朋友吐露了她的恐惧。
+
+*Often used when someone shares something private or sensitive with a trusted person.*
+
+<!-- timestamp=2026-02-12T14:04:16.939+08:00 -->
+
+---
 ## arvo
 
 */ˈɑːrvəʊ/*
