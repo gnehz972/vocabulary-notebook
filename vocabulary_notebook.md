@@ -1,17 +1,17 @@
 ## custodianship
 
-*/kʌstəˈdɪənʃɪp/*
+*/kəˈstəʊdiənʃɪp/*
 
-> The state or position of being a custodian; the responsibility for safeguarding, managing, or protecting something of value.
+> The state or office of being a custodian; the responsibility for safeguarding, managing, or protecting something valuable or important.
 
-**保管；监护；看护**
+**保管；监护；管理责任**
 
-- The museum's custodianship of ancient artifacts is vital to preserving cultural heritage.
-- 博物馆对古代文物的保管对于保护文化遗产至关重要。
+- The museum's custodianship of historical artifacts is carefully maintained.
+- 博物馆对历史文物的保管工作得到了妥善维护。
 
-*Often used in formal or institutional contexts, such as museums, archives, or legal frameworks, to emphasize duty and responsibility.*
+*Often used in formal or institutional contexts, such as museums, heritage sites, or legal trusts, to emphasize duty and responsibility.*
 
-<!-- timestamp=2026-02-27T09:46:02.578+08:00 -->
+<!-- timestamp=2026-02-27T09:46:21.803+08:00 -->
 
 ---
 ## confided
