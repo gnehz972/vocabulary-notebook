@@ -1,3 +1,21 @@
+## bunker
+
+*/ˈbʌŋkər/*
+
+> A shelter or fortification built to protect people from attacks, especially during wartime; also refers to a large storage container for fuel, grain, or other materials.
+
+**掩体；地堡；储藏室**
+
+- The soldiers took cover in the bunker during the air raid.
+- 士兵们在空袭期间躲进了掩体。
+
+*Originally military in context, but now also used for industrial storage facilities. Can be underground or above ground.*
+
+**Note:** The term can also refer to a secure room in a building designed to withstand disasters (e.g., "survival bunker").
+
+<!-- timestamp=2026-03-03T14:38:21.916+08:00 -->
+
+---
 ## custodianship
 
 */kəˈstəʊdiənʃɪp/*
