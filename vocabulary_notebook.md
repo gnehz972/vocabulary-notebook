@@ -1,3 +1,19 @@
+## heuristics
+
+*/hjʊˈrɪstɪks/*
+
+> Strategies or methods used to solve problems more efficiently, often based on experience or intuition rather than strict rules or algorithms.
+
+**启发式方法；经验法则**
+
+- The algorithm uses heuristics to quickly narrow down the search space.
+- 该算法使用启发式方法快速缩小搜索范围。
+
+*Commonly used in computer science, psychology, and decision-making to make educated guesses when exact solutions are impractical.*
+
+<!-- timestamp=2026-03-15T23:23:23.188+08:00 -->
+
+---
 ## stance
 
 */stæns/*
