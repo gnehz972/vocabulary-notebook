@@ -1,3 +1,19 @@
+## philosophical
+
+*/ˌfɪləˈsɒfɪkəl/*
+
+> Relating to philosophy; concerned with fundamental questions about existence, knowledge, values, and the nature of reality.
+
+**哲学的；哲理的**
+
+- His philosophical approach to life helped him stay calm during uncertainty.
+- 他对待生活的一种哲理态度使他在不确定时期仍能保持冷静。
+
+*Often used to describe thoughts or discussions that explore deep, abstract ideas rather than practical concerns.*
+
+<!-- timestamp=2026-03-15T23:20:48.605+08:00 -->
+
+---
 ## bunker
 
 */ˈbʌŋkər/*
