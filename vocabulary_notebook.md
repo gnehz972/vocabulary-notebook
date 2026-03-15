@@ -1,3 +1,19 @@
+## stance
+
+*/stæns/*
+
+> A position or attitude taken on a particular issue or situation; a physical posture, especially one that reflects readiness or determination.
+
+**立场；态度；姿势**
+
+- The company took a firm stance against corruption.
+- 该公司对腐败采取了坚定的立场。
+
+*Can refer to both literal body posture (e.g., in sports or martial arts) and figurative positions on political, social, or ethical issues.*
+
+<!-- timestamp=2026-03-15T23:21:01.979+08:00 -->
+
+---
 ## philosophical
 
 */ˌfɪləˈsɒfɪkəl/*
