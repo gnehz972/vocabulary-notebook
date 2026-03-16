@@ -1,3 +1,19 @@
+## accordion
+
+*/əˈkɔːrdiən/*
+
+> A portable musical instrument with a bellows that expands and contracts, producing sound through free reeds when air is pumped through them; typically played with the hands on a keyboard or buttons.
+
+**手风琴**
+
+- He played a lively tune on the accordion at the village festival.
+- 他在村庄的节日上用手风琴演奏了一首欢快的曲子。
+
+*Often associated with folk music and traditional celebrations in European and Latin American cultures.*
+
+<!-- timestamp=2026-03-16T10:15:15.623+08:00 -->
+
+---
 ## heuristics
 
 */hjʊˈrɪstɪks/*
