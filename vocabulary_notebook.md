@@ -1,3 +1,19 @@
+## carousel
+
+*/kəˈrəʊsəl/*
+
+> A rotating amusement ride with seats, often in the form of horses or other animals, that move up and down as the platform spins.
+
+**旋转木马；回转游乐设施**
+
+- We rode the carousel at the fair and had so much fun.
+- 我们在集市上骑了旋转木马，玩得非常开心。
+
+*Often found in amusement parks, fairs, or playgrounds; can also be used metaphorically to describe a cycle of repetitive activities.*
+
+<!-- timestamp=2026-03-16T10:17:18.083+08:00 -->
+
+---
 ## accordion
 
 */əˈkɔːrdiən/*
