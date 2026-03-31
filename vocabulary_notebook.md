@@ -1,3 +1,21 @@
+## slop
+
+*/slɒp/*
+
+> A thick, messy liquid or mixture, often waste or discarded food; also refers to a careless or sloppy way of doing something.
+
+**糊状物；邋遢；粗心大意**
+
+- The kitchen floor was covered in a layer of slop from the spilled soup.
+- 厨房地板上铺满了汤汁泼洒后形成的糊状物。
+
+*Can be used both literally (as a substance) and figuratively (to describe careless behavior).*
+
+**Note:** In British English, "slop" can also refer to leftover food given to animals or waste material.
+
+<!-- timestamp=2026-03-31T13:24:54.132+08:00 -->
+
+---
 ## incubator
 
 */ɪnˈkʌbəˌteɪtər/*
