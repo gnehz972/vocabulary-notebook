@@ -1,3 +1,22 @@
+## forge
+
+*/fɔːrdʒ/*
+
+> To create or shape something, especially metal, by heating and hammering; to make or produce (something new or artificial); to establish or develop (a relationship or reputation) through effort.
+
+**锻造；制造；建立**
+
+- The blacksmith forged a sword from the red-hot iron.
+- 铁匠用烧红的铁锻造了一把剑。
+
+- They forged a strong partnership based on mutual trust.
+- 他们基于相互信任建立了牢固的合作关系。
+
+*Note: "Forge" can be used both literally (in metalworking) and figuratively (to build relationships, documents, or identities). Be cautious with context—forging documents is illegal.*
+
+<!-- timestamp=2026-03-31T09:30:58.801+08:00 -->
+
+---
 ## carousel
 
 */kəˈrəʊsəl/*
