@@ -1,3 +1,19 @@
+## incubator
+
+*/ɪnˈkʌbəˌteɪtər/*
+
+> A device that maintains a controlled environment, typically warm and humid, to support the development of premature or weak infants, or to hatch eggs in biological research.
+
+**孵化器；保温箱**
+
+- The newborn was placed in an incubator to help regulate her body temperature.
+- 这名新生儿被放入保温箱以帮助调节体温。
+
+*Commonly used in neonatal care units and in scientific settings for egg incubation.*
+
+<!-- timestamp=2026-03-31T09:49:11.845+08:00 -->
+
+---
 ## forge
 
 */fɔːrdʒ/*
