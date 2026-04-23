@@ -1,3 +1,19 @@
+## capex
+
+*/ˈkeɪpˌeks/*
+
+> Short for "capital expenditure," referring to funds used by a company to acquire, upgrade, or maintain physical assets such as property, buildings, technology, or equipment.
+
+**资本支出**
+
+- The company allocated $5 million in capex for new manufacturing equipment.
+- 该公司拨出500万美元用于新制造设备的资本支出。
+
+*Commonly used in financial and business contexts to distinguish long-term investments from operational expenses (opex).*
+
+<!-- timestamp=2026-04-23T09:51:27.240+08:00 -->
+
+---
 ## slop
 
 */slɒp/*
