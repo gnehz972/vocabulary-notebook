@@ -1,3 +1,19 @@
+## hyphen
+
+*/ˈhaɪfən/*
+
+> A punctuation mark (-) used to join words or parts of words, often to form compound terms or to indicate a break in a word at the end of a line.
+
+**连字符**
+
+- The word "mother-in-law" uses a hyphen to connect the compound term.
+- “母亲婆婆”这个词使用连字符连接复合词。
+
+*Unlike a dash (–), a hyphen is shorter and primarily used for word formation or line breaks; it should not be confused with en dashes or em dashes.*
+
+<!-- timestamp=2026-04-23T11:46:51.906+08:00 -->
+
+---
 ## capex
 
 */ˈkeɪpˌeks/*
