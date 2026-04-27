@@ -1,3 +1,19 @@
+## cadence
+
+*/ˈkædəns/*
+
+> The rhythm or pace of speech, movement, or music; a recurring pattern that gives flow and structure.
+
+**节奏；韵律**
+
+- The poem’s cadence was soothing and hypnotic.
+- 这首诗的节奏舒缓而具有催眠效果。
+
+*Often used to describe the natural rhythm in spoken language or poetic lines, especially in literary or musical contexts.*
+
+<!-- timestamp=2026-04-27T12:31:22.642+08:00 -->
+
+---
 ## curly apostrophe
 
 > A typographical symbol (‘ or ’) that curves, often used in place of a straight apostrophe (') in professionally typeset text; commonly found in printed materials and digital publishing to enhance visual appeal and readability.
