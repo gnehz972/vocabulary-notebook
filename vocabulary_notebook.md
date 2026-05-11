@@ -1,3 +1,19 @@
+## probabilistic
+
+*/ˌprɒbəˈbɪlɪstɪk/*
+
+> Relating to or involving probability; based on the likelihood of possible outcomes rather than certainty.
+
+**概率的；或然性的**
+
+- The model uses a probabilistic approach to predict customer behavior.
+- 该模型采用概率方法来预测客户行为。
+
+*Often used in statistics, machine learning, and decision-making under uncertainty.*
+
+<!-- timestamp=2026-05-11T12:25:36.748+08:00 -->
+
+---
 ## cadence
 
 */ˈkædəns/*
