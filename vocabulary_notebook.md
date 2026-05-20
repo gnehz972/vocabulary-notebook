@@ -1,3 +1,19 @@
+## ritual
+
+*/ˈrɪtʃuəl/*
+
+> A religious or solemn ceremony or set of actions performed according to a specific tradition or order.
+
+**仪式；礼节**
+
+- The wedding ceremony included several ancient rituals passed down through generations.
+- 婚礼包含了数个世代相传的古老仪式。
+
+*Often refers to repeated, formal practices in religious or cultural contexts, emphasizing tradition and symbolic meaning.*
+
+<!-- timestamp=2026-05-20T10:35:50.783+08:00 -->
+
+---
 ## probabilistic
 
 */ˌprɒbəˈbɪlɪstɪk/*
