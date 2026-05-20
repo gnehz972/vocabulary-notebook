@@ -1,3 +1,17 @@
+## spin up
+
+> To quickly set up or start up a system, service, or process, often used in technical or IT contexts; to initiate something rapidly, typically in computing or cloud environments.
+
+**快速启动；搭建**
+
+- The developer spun up a new virtual machine to test the application.
+- 这名开发人员快速搭建了一个虚拟机来测试该应用程序。
+
+*Commonly used in tech and software development circles, especially when referring to cloud infrastructure (e.g., AWS, Azure). Often implies speed and efficiency, and may be used informally even outside of IT contexts.*
+
+<!-- timestamp=2026-05-20T10:38:21.709+08:00 -->
+
+---
 ## ritual
 
 */ˈrɪtʃuəl/*
