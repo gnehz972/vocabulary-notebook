@@ -1,3 +1,22 @@
+## acyclic
+
+*/əˈsaɪklɪk/*
+
+> Not having a cycle; lacking a closed loop or recurring pattern, especially in the context of graphs or chemical structures.
+
+**无环的；非循环的**
+
+- The algorithm works efficiently on acyclic graphs.
+- 该算法在无环图上运行效率很高。
+
+- In organic chemistry, acyclic compounds do not form rings.
+- 在有机化学中，无环化合物不会形成环状结构。
+
+*Used primarily in mathematics (graph theory) and chemistry to describe structures without cycles or loops.*
+
+<!-- timestamp=2026-05-22T11:02:52.510+08:00 -->
+
+---
 ## spin up
 
 > To quickly set up or start up a system, service, or process, often used in technical or IT contexts; to initiate something rapidly, typically in computing or cloud environments.
