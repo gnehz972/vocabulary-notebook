@@ -1,3 +1,19 @@
+## haptic
+
+*/ˈhæptɪk/*
+
+> Relating to the sense of touch, especially in the context of technology that simulates tactile feedback.
+
+**触觉的；与触感相关的**
+
+- The new smartphone uses haptic feedback to simulate the feeling of pressing a physical button.
+- 这款新智能手机采用触觉反馈技术，模拟按下物理按钮的感觉。
+
+*Commonly used in discussions about user interfaces, virtual reality, and wearable devices where touch sensation is simulated.*
+
+<!-- timestamp=2026-05-26T09:31:35.952+08:00 -->
+
+---
 ## acyclic
 
 */əˈsaɪklɪk/*
