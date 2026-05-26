@@ -1,3 +1,12 @@
+## infographic + profanity
+
+- The infographic clearly explained the risks, avoiding any profanity for a family-friendly audience.
+
+- 这张信息图清晰地说明了风险，为家庭友好型观众避免使用粗俗语言。
+
+<!-- timestamp=2026-05-26T09:36:50.495+08:00 -->
+
+---
 ## haptic
 
 */ˈhæptɪk/*
