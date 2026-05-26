@@ -1,3 +1,12 @@
+## glacier + morphological
+
+- The glacier's morphological changes reveal how climate shifts reshape polar landscapes over time.
+
+- 冰川的形态变化揭示了气候变化如何随时间重塑极地地貌。
+
+<!-- timestamp=2026-05-26T09:37:39.531+08:00 -->
+
+---
 ## infographic + profanity
 
 - The infographic clearly explained the risks, avoiding any profanity for a family-friendly audience.
