@@ -1,3 +1,12 @@
+## carousel + slop
+
+- The child’s ice cream dropped onto the carousel, leaving a sticky slop on the wooden horses.
+
+- 这个孩子的冰淇淋掉到了旋转木马上，把木马弄得到处都是黏糊糊的污渍。
+
+<!-- timestamp=2026-06-08T23:01:16.063+08:00 -->
+
+---
 ## sidecar
 
 */ˈsaɪd.kɑːr/*
