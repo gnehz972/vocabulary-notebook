@@ -1,3 +1,46 @@
+## sidecar
+
+*/ˈsaɪd.kɑːr/*
+
+> A small, attached seat or platform, typically on the side of a motorcycle, designed to carry a passenger.
+
+**副座；摩托车侧车**
+
+- He rode his motorcycle with a sidecar full of groceries.
+- 他骑着带副座的摩托车，副座上装满了杂货。
+
+*Often used in the context of motorcycles; can also refer to a cocktail made with brandy, Cointreau, and lemon juice (a "sidecar" cocktail).*
+
+<!-- timestamp=2026-06-08T09:56:22.207+08:00 -->
+
+---
+## religious
+
+
+
+*/rɪˈlɪdʒəs/*
+
+
+
+> Relating to or believing in a religion; devout.
+
+
+
+**宗教的；虔诚的**
+
+
+
+- He is a deeply religious man who attends church every Sunday.
+
+- 他是一位非常虔诚的教徒，每周日都去教堂。
+
+
+
+*Can also refer to things connected with religious practices or beliefs, like religious texts or ceremonies.*
+
+<!-- timestamp=2026-05-30T22:36:48.169+08:00 -->
+
+---
 ## glacier + morphological
 
 - The glacier's morphological changes reveal how climate shifts reshape polar landscapes over time.
@@ -63,22 +106,6 @@
 *Commonly used in tech and software development circles, especially when referring to cloud infrastructure (e.g., AWS, Azure). Often implies speed and efficiency, and may be used informally even outside of IT contexts.*
 
 <!-- timestamp=2026-05-20T10:38:21.709+08:00 -->
-
----
-## ritual
-
-*/ˈrɪtʃuəl/*
-
-> A religious or solemn ceremony or set of actions performed according to a specific tradition or order.
-
-**仪式；礼节**
-
-- The wedding ceremony included several ancient rituals passed down through generations.
-- 婚礼包含了数个世代相传的古老仪式。
-
-*Often refers to repeated, formal practices in religious or cultural contexts, emphasizing tradition and symbolic meaning.*
-
-<!-- timestamp=2026-05-20T10:35:50.783+08:00 -->
 
 ---
 ## probabilistic
