@@ -1,3 +1,24 @@
+## mint
+
+*/mɪnt/*
+
+> A herb with a cool, refreshing flavor, often used in cooking, drinks, and medicine; also refers to the place where coins are produced.
+
+**薄荷；铸币厂**
+
+- The tea was flavored with fresh mint leaves.
+- 这种茶用新鲜的薄荷叶调味。
+
+*Note: "mint" can be both a plant (herb) and a place where money is made. Be careful not to confuse the two meanings in context.*
+
+- The Royal Mint in London produces all UK coins.
+- 伦敦的皇家铸币厂生产所有英国硬币。
+
+*The word "mint" as a verb can also mean "to produce or issue" (e.g., "The government minted new currency").*
+
+<!-- timestamp=2026-06-10T10:02:07.210+08:00 -->
+
+---
 ## carousel + slop
 
 - The child’s ice cream dropped onto the carousel, leaving a sticky slop on the wooden horses.
