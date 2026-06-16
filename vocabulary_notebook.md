@@ -1,3 +1,35 @@
+## nice
+
+*/naɪs/*
+
+> Pleasant or agreeable in a way that is enjoyable or attractive; also used to describe something of good quality or satisfactory.
+
+**好的；令人愉快的；精致的**
+
+- The weather today is nice and sunny.
+- 今天的天气晴朗宜人。
+
+*Note: "nice" is often used informally to mean "good" or "acceptable," but can also convey a more refined or positive quality depending on context.*
+
+**Usage tip:** In casual speech, "nice" can be a polite way to express approval without being overly enthusiastic (e.g., "Nice job!" = "Good job!").
+
+<!-- timestamp=2026-06-16T15:44:29.692+08:00 -->
+
+---
+## infographic + profanity
+
+> The combination of an infographic (a visual representation of information) with explicit or offensive language; often used to describe a deliberately provocative or irreverent design that uses strong language for emphasis, humor, or shock value.
+
+**信息图 + 脏话**
+
+- This infographic uses bold colors and profanity to grab attention and make a point about workplace stress.
+- 这张信息图使用了鲜艳的色彩和脏话，以吸引注意力并强调职场压力的问题。
+
+*Often seen in internet culture and social media content where humor or satire is used to critique serious topics. The use of profanity in infographics can be controversial but is intended to stand out and provoke discussion.*
+
+<!-- timestamp=2026-06-10T16:56:44.587+08:00 -->
+
+---
 ## mint
 
 */mɪnt/*
@@ -17,15 +49,6 @@
 *The word "mint" as a verb can also mean "to produce or issue" (e.g., "The government minted new currency").*
 
 <!-- timestamp=2026-06-10T10:02:07.210+08:00 -->
-
----
-## carousel + slop
-
-- The child’s ice cream dropped onto the carousel, leaving a sticky slop on the wooden horses.
-
-- 这个孩子的冰淇淋掉到了旋转木马上，把木马弄得到处都是黏糊糊的污渍。
-
-<!-- timestamp=2026-06-08T23:01:16.063+08:00 -->
 
 ---
 ## sidecar
@@ -78,15 +101,6 @@
 - 冰川的形态变化揭示了气候变化如何随时间重塑极地地貌。
 
 <!-- timestamp=2026-05-26T09:37:39.531+08:00 -->
-
----
-## infographic + profanity
-
-- The infographic clearly explained the risks, avoiding any profanity for a family-friendly audience.
-
-- 这张信息图清晰地说明了风险，为家庭友好型观众避免使用粗俗语言。
-
-<!-- timestamp=2026-05-26T09:36:50.495+08:00 -->
 
 ---
 ## haptic
