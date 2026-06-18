@@ -1,3 +1,19 @@
+## deskew
+
+*/ˈdɛskjuː/*
+
+> To correct the tilt or slant of an image, document, or scanned file so that it appears straight and properly aligned.
+
+**校正倾斜；去斜**
+
+- The software automatically deskews the scanned document to improve readability.
+- 该软件自动校正扫描文档的倾斜，以提高可读性。
+
+*Commonly used in document imaging and OCR (optical character recognition) processes to ensure accurate text extraction.*
+
+<!-- timestamp=2026-06-18T16:55:09.314+08:00 -->
+
+---
 ## nice
 
 */naɪs/*
