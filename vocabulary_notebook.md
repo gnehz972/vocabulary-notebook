@@ -1,3 +1,22 @@
+## warped
+
+*/wɔːrpt/*
+
+> Distorted in shape, form, or character; mentally unbalanced or abnormal.
+
+**扭曲的；精神失常的**
+
+- The wooden door became warped after the rain.
+- 雨后木门变得扭曲了。
+
+- His behavior seemed warped by years of isolation.
+- 他多年孤独的生活使他的行为显得异常。
+
+*Can describe both physical distortion (e.g., a warped board) and psychological deviation (e.g., warped thinking).*
+
+<!-- timestamp=2026-06-22T17:59:07.189+08:00 -->
+
+---
 ## deskew
 
 */ˈdɛskjuː/*
