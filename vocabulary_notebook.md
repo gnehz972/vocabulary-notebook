@@ -1,3 +1,19 @@
+## promptly
+
+*/ˈprɒmptli/*
+
+> Done or occurring without delay; quickly and efficiently.
+
+**迅速地；及时地**
+
+- She responded promptly to the emergency call.
+- 她迅速回应了紧急呼叫。
+
+*Often used to describe timely actions, especially in professional or urgent contexts.*
+
+<!-- timestamp=2026-06-23T09:49:40.433+08:00 -->
+
+---
 ## warped
 
 */wɔːrpt/*
