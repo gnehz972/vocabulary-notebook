@@ -1,3 +1,19 @@
+## canonicalized
+
+*/ˌkænəˈnɪkəlaɪzd/*
+
+> The past tense and past participle of "canonicalize," meaning to convert something into a standard or canonical form, typically for consistency, comparison, or processing in systems like databases or software.
+
+**规范化；标准化**
+
+- The system automatically canonicalized the input data to ensure uniformity.
+- 该系统自动将输入数据规范化，以确保一致性。
+
+*Commonly used in computing and data processing contexts to describe the transformation of data into a consistent format.*
+
+<!-- timestamp=2026-06-24T09:25:29.485+08:00 -->
+
+---
 ## promptly
 
 */ˈprɒmptli/*
