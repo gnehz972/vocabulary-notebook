@@ -1,3 +1,19 @@
+## selfie
+
+*/ˈselfi/*
+
+> A photograph that someone takes of themselves, typically using a smartphone or camera held in the hand or mounted on a stand, often shared on social media.
+
+**自拍**
+
+- He took a selfie with the mountain in the background.
+- 他拍了一张背景是大山的自拍照。
+
+*Commonly used in casual contexts and popular on social platforms like Instagram, Snapchat, and TikTok.*
+
+<!-- timestamp=2026-06-29T16:20:03.082+08:00 -->
+
+---
 ## canonicalized
 
 */ˌkænəˈnɪkəlaɪzd/*
