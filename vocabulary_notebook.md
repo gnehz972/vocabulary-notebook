@@ -1,3 +1,21 @@
+## dewarp
+
+*/ˈdjuːwɔːrp/*
+
+> To correct or remove distortion, especially in images or video, caused by lens curvature or other geometric distortions.
+
+**去畸变；校正变形**
+
+- The software automatically dewarps the image to restore its original shape.
+- 该软件自动对图像进行去畸变处理，以恢复其原始形状。
+
+*Commonly used in photography, computer vision, and video processing to fix barrel or pincushion distortions.*
+
+*Note: "Dewarp" is a technical term often applied in digital image correction, particularly when dealing with wide-angle lenses or panoramic shots.*
+
+<!-- timestamp=2026-06-29T17:10:03.531+08:00 -->
+
+---
 ## selfie
 
 */ˈselfi/*
