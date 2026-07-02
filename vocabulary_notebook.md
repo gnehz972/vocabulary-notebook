@@ -1,3 +1,19 @@
+## residual
+
+*/rɪˈzɪdjʊəl/*
+
+> Remaining after the greater part has been removed or used; left over.
+
+**剩余的；残留的**
+
+- The residual heat from the engine took hours to dissipate.
+- 发动机的余热花了好几个小时才散去。
+
+*Used particularly in scientific, legal, or financial contexts to describe what remains after a process or allocation.*
+
+<!-- timestamp=2026-07-02T18:15:25.295+08:00 -->
+
+---
 ## spatial
 
 */ˈspeɪʃəl/*
