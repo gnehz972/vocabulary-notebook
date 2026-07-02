@@ -1,3 +1,19 @@
+## spatial
+
+*/ˈspeɪʃəl/*
+
+> Relating to space or the physical arrangement of objects in space.
+
+**空间的；空间相关的**
+
+- The architect designed the room with a spatial awareness that maximized natural light.
+- 这位建筑师在设计房间时具有出色的空间意识，最大限度地利用了自然光。
+
+*Often used in contexts involving geometry, navigation, architecture, or cognitive perception of space.*
+
+<!-- timestamp=2026-07-02T17:35:12.470+08:00 -->
+
+---
 ## dewarp
 
 */ˈdjuːwɔːrp/*
