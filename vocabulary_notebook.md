@@ -1,3 +1,19 @@
+## commute
+
+*/kəˈmjuːt/*
+
+> The regular travel between one's home and place of work or study; also refers to the journey itself.
+
+**通勤；往返行程**
+
+- She commutes two hours each way to her job in the city.
+- 她每天往返市区上班，单程就要花两个小时。
+
+*Commonly used in urban contexts to describe daily travel patterns, often involving public transportation or driving.*
+
+<!-- timestamp=2026-07-06T13:59:45.467+08:00 -->
+
+---
 ## colloquial
 
 */kəˈləʊkwɪəl/*
