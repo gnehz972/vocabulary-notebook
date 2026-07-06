@@ -1,3 +1,19 @@
+## colloquial
+
+*/kəˈləʊkwɪəl/*
+
+> Relating to informal, everyday language used in conversation rather than formal writing; characteristic of casual speech.
+
+**口语的；非正式的**
+
+- The phrase is common in colloquial English but not suitable for academic writing.
+- 这个短语在口语英语中常见，但不适合用于学术写作。
+
+*Often used to describe language that sounds natural in spoken contexts but may be too informal for formal settings.*
+
+<!-- timestamp=2026-07-06T10:04:55.736+08:00 -->
+
+---
 ## residual
 
 */rɪˈzɪdjʊəl/*
