@@ -1,3 +1,17 @@
+## colloquial location
+
+> Refers to a casual, informal place or setting where people use everyday, conversational language; often associated with relaxed environments where slang or regional expressions are common.
+
+**非正式场合；口语化地点**
+
+- We met at a cozy café downtown—perfect for a colloquial location to chat without formality.
+- 我们在市中心一家温馨的咖啡馆见面——非常适合随意聊天，毫无拘束。
+
+*Often used in discussions about language use, social interactions, or cultural settings where informal speech is natural and expected.*
+
+<!-- timestamp=2026-07-09T09:18:54.269+08:00 -->
+
+---
 ## commute
 
 */kəˈmjuːt/*
