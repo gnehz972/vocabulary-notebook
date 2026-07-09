@@ -1,3 +1,19 @@
+## suburb
+
+*/ˈsʌbɜːrb/*
+
+> A residential area on the outskirts of a city, typically characterized by single-family homes and lower population density than the city center.
+
+**郊区；城郊**
+
+- We moved to the suburb to get more space and a quieter environment.
+- 我们搬到了郊区，以获得更大的空间和更安静的环境。
+
+*Often refers to areas that are part of a larger metropolitan region but have a more residential, less urban character.*
+
+<!-- timestamp=2026-07-09T09:19:30.822+08:00 -->
+
+---
 ## colloquial location
 
 > Refers to a casual, informal place or setting where people use everyday, conversational language; often associated with relaxed environments where slang or regional expressions are common.
