@@ -1,3 +1,19 @@
+## spurious
+
+*/ˈspjʊəriəs/*
+
+> False or wrongly based; not genuine or valid.
+
+**虚假的；伪造的**
+
+- The evidence presented was spurious and easily disproven.
+- 提出的证据是虚假的，很容易被推翻。
+
+*Often used to describe claims, arguments, or data that appear valid but are actually misleading or baseless.*
+
+<!-- timestamp=2026-07-13T13:58:27.970+08:00 -->
+
+---
 ## suburb
 
 */ˈsʌbɜːrb/*
