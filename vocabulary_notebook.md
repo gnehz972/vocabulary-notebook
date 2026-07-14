@@ -1,3 +1,19 @@
+## tray
+
+*/treɪ/*
+
+> A flat, shallow container used for carrying or holding items, often in kitchens, dining areas, or medical settings.
+
+**托盘；盘子**
+
+- She placed the coffee cups on a tray and carried them to the table.
+- 她把咖啡杯放在托盘上，端到了桌上。
+
+*Commonly used in restaurants, hospitals, and homes; can be made of metal, plastic, wood, or other materials.*
+
+<!-- timestamp=2026-07-14T11:27:37.613+08:00 -->
+
+---
 ## spurious
 
 */ˈspjʊəriəs/*
