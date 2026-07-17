@@ -1,3 +1,19 @@
+## errand
+
+*/ˈerənd/*
+
+> A short trip or task, especially one done to run a personal or household chore, such as buying groceries or dropping off mail.
+
+**跑腿；差事**
+
+- She ran an errand to the post office after work.
+- 她下班后去邮局跑了个差事。
+
+*Commonly used in everyday contexts to describe quick, practical tasks that are part of daily life.*
+
+<!-- timestamp=2026-07-17T10:26:09.531+08:00 -->
+
+---
 ## tray
 
 */treɪ/*
