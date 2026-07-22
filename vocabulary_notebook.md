@@ -1,3 +1,17 @@
+## dead heat
+
+> A tie in a race or competition, especially one where the outcome is so close that it's impossible to determine a winner by visual observation; used metaphorically to describe any situation where two or more parties are evenly matched.
+
+**平局；势均力敌**
+
+- The marathon ended in a dead heat, with both runners crossing the finish line at exactly the same time.
+- 马拉松比赛以平局收场，两位选手同时冲过终点线。
+
+*Commonly used in sports and competitive contexts, particularly in racing events. The term originates from horse racing, where a "dead heat" means no clear winner due to identical finishing times.*
+
+<!-- timestamp=2026-07-22T21:01:15.486+08:00 -->
+
+---
 ## errand
 
 */ˈerənd/*
