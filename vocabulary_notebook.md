@@ -1,3 +1,19 @@
+## taming
+
+*/ˈteɪmɪŋ/*
+
+> The act of domesticating or subduing an animal, person, or force; bringing under control through patience and effort.
+
+**驯服；控制；驯化**
+
+- The rancher spent years on the taming of wild horses.
+- 那位牧场主花了多年时间驯服野马。
+
+*Often used in contexts involving animals, emotions, or unruly behavior—implies gradual control rather than immediate force.*
+
+<!-- timestamp=2026-07-23T09:54:25.471+08:00 -->
+
+---
 ## dead heat
 
 > A tie in a race or competition, especially one where the outcome is so close that it's impossible to determine a winner by visual observation; used metaphorically to describe any situation where two or more parties are evenly matched.
