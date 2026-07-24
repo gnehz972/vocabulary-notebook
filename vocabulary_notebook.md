@@ -1,3 +1,19 @@
+## attestation
+
+*/ˌætəˈsteɪʃən/*
+
+> The act of proving or confirming the truth or authenticity of something; a formal statement or certificate verifying facts.
+
+**证明；认证**
+
+- The teacher provided an attestation of his student's good behavior.
+- 老师提供了该学生良好品行的证明。
+
+*Commonly used in legal, academic, or official contexts to validate documents, identities, or qualifications.*
+
+<!-- timestamp=2026-07-24T09:37:20.934+08:00 -->
+
+---
 ## taming
 
 */ˈteɪmɪŋ/*
