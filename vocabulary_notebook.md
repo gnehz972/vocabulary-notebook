@@ -1,3 +1,19 @@
+## asymptotic
+
+*/ˌæsɪmˈpɒtɪk/*
+
+> Relating to a value that a function or sequence approaches as an independent variable or index tends toward a limit, often infinity, without ever reaching it.
+
+**渐近的；逼近的**
+
+- The algorithm's performance is asymptotic to O(n log n) for large inputs.
+- 该算法在输入规模较大时，其性能趋近于 O(n log n)。
+
+*Used in mathematics and computer science to describe the behavior of functions or algorithms as input size grows indefinitely.*
+
+<!-- timestamp=2026-07-27T15:59:53.265+08:00 -->
+
+---
 ## attestation
 
 */ˌætəˈsteɪʃən/*
