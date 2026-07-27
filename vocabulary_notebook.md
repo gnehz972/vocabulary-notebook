@@ -1,3 +1,19 @@
+## discrepancies
+
+*/dɪsˈkrɛpənsiz/*
+
+> Differences or inconsistencies between things that should be the same or match; variations that contradict each other.
+
+**差异；不一致**
+
+- There were several discrepancies in the financial reports, raising concerns about accuracy.
+- 财务报告中存在几处不一致，引起了对准确性的担忧。
+
+*Often used in contexts like data analysis, accounting, or legal documents to highlight contradictions or errors.*
+
+<!-- timestamp=2026-07-27T17:10:30.660+08:00 -->
+
+---
 ## asymptotic
 
 */ˌæsɪmˈpɒtɪk/*
