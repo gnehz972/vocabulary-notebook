@@ -1,3 +1,19 @@
+## enticing
+
+*/ɪnˈtaɪtɪŋ/*
+
+> Attracting attention or interest; arousing desire or curiosity.
+
+**诱人的；吸引人的**
+
+- The dessert was so enticing that I couldn’t resist trying it.
+- 那道甜点太诱人了，我忍不住想尝一口。
+
+*Often used to describe things that spark strong interest or temptation, especially in marketing or personal appeal.*
+
+<!-- timestamp=2026-07-27T17:47:38.032+08:00 -->
+
+---
 ## discrepancies
 
 */dɪsˈkrɛpənsiz/*
