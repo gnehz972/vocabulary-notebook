@@ -1,3 +1,19 @@
+## sol
+
+*/sɒl/*
+
+> A day on Mars; the time it takes for Mars to complete one rotation on its axis, approximately 24 hours and 39 minutes.
+
+**火星日；火星的一天**
+
+- The rover began its mission on sol 1, marking the first Martian day of operations.
+- 这辆探测车在火星日第1天开始了它的任务，标志着首次火星日的运行。
+
+*Note: "Sol" is used in planetary science to distinguish a Martian day from an Earth day, as Mars rotates slightly slower than Earth.*
+
+<!-- timestamp=2026-08-04T09:22:19.845+08:00 -->
+
+---
 ## luna
 
 */ˈluːnə/*
