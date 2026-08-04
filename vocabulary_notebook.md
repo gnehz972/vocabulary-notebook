@@ -1,3 +1,19 @@
+## terra
+
+*/ˈtɛrə/*
+
+> A Latin word meaning "earth" or "land"; often used in scientific and geographical contexts, especially in compound words like *terrestrial* (relating to Earth) or *terra firma* (solid ground).
+
+**地球；陆地**
+
+- The astronauts planted a flag on the lunar surface, but it was still terra incognita compared to Earth.
+- 宇航员在月球表面插上旗帜，但与地球相比，那里仍是未知的疆域。
+
+*Note: In modern usage, "terra" is primarily found in scientific terminology or historical references; it is rarely used alone in everyday English.*
+
+<!-- timestamp=2026-08-04T09:22:41.492+08:00 -->
+
+---
 ## sol
 
 */sɒl/*
