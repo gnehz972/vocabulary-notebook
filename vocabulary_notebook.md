@@ -1,3 +1,19 @@
+## luna
+
+*/ˈluːnə/*
+
+> A Latin word meaning "moon"; often used poetically or in scientific contexts to refer to the Moon, especially in astronomy or mythology.
+
+**月亮；月神**
+
+- The luna cast a pale glow over the silent forest.
+- 月亮洒下苍白的光辉，笼罩着寂静的森林。
+
+*Used primarily in poetic, astronomical, or mythological contexts; not common in everyday speech.*
+
+<!-- timestamp=2026-08-04T09:21:51.618+08:00 -->
+
+---
 ## enticing
 
 */ɪnˈtaɪtɪŋ/*
