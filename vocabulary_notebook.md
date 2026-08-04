@@ -1,3 +1,19 @@
+## invariant
+
+*/ɪˈvɛriənt/*
+
+> Something that remains unchanged under specified transformations or operations; a property or quantity that stays constant.
+
+**不变量；恒定性质**
+
+- The invariance of the speed of light is a cornerstone of Einstein's theory of relativity.
+- 光速的不变性是爱因斯坦相对论的基石。
+
+*Used especially in mathematics, physics, and computer science to describe properties preserved across changes or processes.*
+
+<!-- timestamp=2026-08-04T09:31:50.444+08:00 -->
+
+---
 ## terra
 
 */ˈtɛrə/*
